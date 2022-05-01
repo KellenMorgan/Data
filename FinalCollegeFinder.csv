@@ -1,0 +1,1110 @@
+Name,SATPercentage,SAT_Bottom25Percent,SAT_Top25Percent,ACTPercentage,ACT_Bottom25Percent,ACT_Top25Percent,PercentageAdmitted,InStateTuition_2014,OutofStateTuition_2014,State,Region,Type,Location,PercentageBlack,PercentageLatinx,PercentageFemale,GraduationRate,PercentageRecievingAnyFinancialAid,PercentageRecievingPellGrant
+Thomas Aquinas College,84,590,700,31,23,31,79,35716,35716,California,Far West,Private,Distant Rural,0,15,49,76,75,35
+Olivet College,3,370,420,98,17,22,51,34181,34181,Michigan,Great Lakes,Private,Distant Rural,10,5,43,37,99,52
+Morrisville State College,89,420,500,23,17,21,59,23352,32802,New York,Mid East,Public,Distant Rural,18,7,48,24,85,65
+Paul Smiths College of Arts and Science,78,450,530,20,20,25,75,40021,40021,New York,Mid East,Private,Distant Rural,1,3,34,33,99,48
+Wells College,88,480,600,32,21,26,60,49800,49800,New York,Mid East,Private,Distant Rural,11,8,66,57,100,56
+Johnson State College,80,430,540,13,15,23,97,21774,33438,Vermont,New England,Public,Distant Rural,2,3,64,29,80,48
+Maine Maritime Academy,95,440,550,13,20,24,65,24098,34918,Maine,New England,Public,Distant Rural,1,1,13,66,60,22
+Sterling College,19,460,540,76,19,25,44,30652,30652,Kansas,Plains,Private,Distant Rural,9,9,46,37,100,41
+Ave Maria University,69,460,620,64,20,26,60,36860,36860,Florida,Southeast,Private,Distant Rural,6,15,48,57,100,31
+Blue Mountain College,4,410,540,96,18,25,56,17550,17550,Mississippi,Southeast,Private,Distant Rural,10,2,58,46,97,46
+Brewton-Parker College,75,400,490,51,17,20,51,24786,24786,Georgia,Southeast,Private,Distant Rural,24,3,46,13,100,57
+Erskine College,76,450,550,67,19,24,70,47610,47610,South Carolina,Southeast,Private,Distant Rural,9,4,48,54,100,45
+Ferrum College,91,390,490,24,14,20,74,40627,40627,Virginia,Southeast,Private,Distant Rural,32,5,43,28,100,63
+Hampden-Sydney College,100,495,600,20,22,27,55,51577,51577,Virginia,Southeast,Private,Distant Rural,8,2,0,61,100,24
+Midway College,11,490,610,89,19,25,54,37650,37650,Kentucky,Southeast,Private,Distant Rural,6,4,81,42,100,54
+Pfeiffer University,89,410,520,24,18,22,96,37140,37140,North Carolina,Southeast,Private,Distant Rural,16,4,60,43,100,50
+Sewanee-The University of the South,50,580,670,51,26,30,60,47970,47970,Tennessee,Southeast,Private,Distant Rural,5,4,51,77,77,20
+Williams Baptist College,6,350,430,94,19,24,68,23886,23886,Arkansas,Southeast,Private,Distant Rural,6,2,62,33,100,52
+Central Washington University,87,430,550,23,18,23,82,22785,34695,Washington,Far West,Public,Distant Town,3,12,50,48,73,36
+Linfield College-McMinnville Campus,85,480,600,40,21,26,92,48182,48182,Oregon,Far West,Private,Distant Town,2,9,60,64,99,27
+Washington State University,88,450,570,23,19,25,82,27697,40779,Washington,Far West,Public,Distant Town,3,11,51,56,64,32
+Adrian College,2,400,530,85,19,24,56,42740,42740,Michigan,Great Lakes,Private,Distant Town,10,2,49,49,98,50
+Alma College,54,460,550,98,22,27,68,44287,44287,Michigan,Great Lakes,Private,Distant Town,2,3,55,55,100,33
+Blackburn College,4,520,570,94,19,25,68,26616,26616,Illinois,Great Lakes,Private,Distant Town,9,1,58,41,97,59
+Bluffton University,12,430,560,94,19,25,53,41864,41864,Ohio,Great Lakes,Private,Distant Town,6,3,50,57,100,41
+Central Michigan University,2,450,550,99,20,24,63,22004,34454,Michigan,Great Lakes,Public,Distant Town,7,3,56,44,69,35
+Defiance College,18,380,530,90,18,23,72,41700,41700,Ohio,Great Lakes,Private,Distant Town,11,6,48,43,100,49
+DePauw University,40,520,650,65,25,29,61,53290,53290,Indiana,Great Lakes,Private,Distant Town,6,3,55,77,97,21
+Earlham College,39,590,700,30,26,31,64,52710,52710,Indiana,Great Lakes,Private,Distant Town,13,6,55,67,96,34
+Grace College and Theological Seminary,68,457,580,54,20,26,79,33940,33940,Indiana,Great Lakes,Private,Distant Town,3,3,59,59,100,42
+Greenville College,19,432,550,81,19,25,66,34641,34641,Illinois,Great Lakes,Private,Distant Town,8,4,48,47,98,38
+Hanover College,53,490,600,44,23,28,67,44150,44150,Indiana,Great Lakes,Private,Distant Town,4,2,57,70,100,36
+Huntington University,68,440,570,64,21,27,97,35520,35520,Indiana,Great Lakes,Private,Distant Town,2,3,57,60,97,36
+Illinois College,10,410,540,85,19,25,61,39040,39040,Illinois,Great Lakes,Private,Distant Town,12,7,50,61,100,36
+Indiana Wesleyan University,63,470,580,69,21,27,95,34588,34588,Indiana,Great Lakes,Private,Distant Town,17,3,67,65,73,43
+Kenyon College,65,630,720,45,28,32,38,60070,60070,Ohio,Great Lakes,Private,Distant Town,3,5,54,88,59,10
+MacMurray College,8,360,470,98,19,22,75,32550,32550,Illinois,Great Lakes,Private,Distant Town,13,4,56,34,100,66
+Manchester University,85,440,560,49,19,25,71,39742,39742,Indiana,Great Lakes,Private,Distant Town,4,5,53,45,100,37
+Mount Vernon Nazarene University,14,480,620,99,20,26,63,35020,35020,Ohio,Great Lakes,Private,Distant Town,5,2,64,56,97,37
+Muskingum University,13,400,520,88,18,24,76,35694,35694,Ohio,Great Lakes,Private,Distant Town,6,2,55,41,100,52
+Oakland City University,56,430,530,48,19,24,73,30800,30800,Indiana,Great Lakes,Private,Distant Town,2,2,61,47,100,53
+Ohio Christian University,14,400,490,89,17,23,97,33418,33418,Ohio,Great Lakes,Private,Distant Town,28,2,61,27,60,48
+Ohio University-Main Campus,28,480,600,89,22,26,73,24396,33360,Ohio,Great Lakes,Public,Distant Town,5,2,60,59,58,25
+Ripon College,16,490,630,89,21,28,75,42769,42769,Wisconsin,Great Lakes,Private,Distant Town,2,6,53,69,100,36
+Saint Josephs College,49,430,540,52,19,24,64,38050,38050,Indiana,Great Lakes,Private,Distant Town,9,5,59,41,100,41
+Siena Heights University,2,392,560,88,19,23,68,34014,34014,Michigan,Great Lakes,Private,Distant Town,12,5,57,35,100,45
+Silver Lake College of the Holy Family,5,438,493,93,17,23,60,36020,36020,Wisconsin,Great Lakes,Private,Distant Town,7,4,67,33,100,57
+Taylor University,41,520,660,59,24,31,88,39742,39742,Indiana,Great Lakes,Private,Distant Town,2,3,55,71,99,24
+The College of Wooster,57,550,670,67,25,30,56,53500,53500,Ohio,Great Lakes,Private,Distant Town,8,4,56,73,99,25
+The University of Findlay,23,480,570,94,21,26,68,41306,41306,Ohio,Great Lakes,Private,Distant Town,3,2,62,51,100,28
+Tiffin University,14,440,523,83,18,23,39,36481,36481,Ohio,Great Lakes,Private,Distant Town,15,2,59,38,97,63
+Trine University,40,470,570,60,21,27,72,45250,45250,Indiana,Great Lakes,Private,Distant Town,2,3,35,45,100,31
+University of Wisconsin-Whitewater,1,470,580,98,20,24,85,17078,24651,Wisconsin,Great Lakes,Public,Distant Town,5,4,51,44,51,29
+Allegheny College,71,530,640,46,23,29,65,52020,52020,Pennsylvania,Mid East,Private,Distant Town,4,6,54,77,100,26
+Bucknell University,68,580,680,32,27,32,30,61060,61060,Pennsylvania,Mid East,Private,Distant Town,3,5,52,90,50,11
+Colgate University,66,620,720,34,30,32,26,60050,60050,New York,Mid East,Private,Distant Town,4,8,55,90,41,12
+Indiana University of Pennsylvania-Main Campus,94,440,530,16,17,22,90,23920,35056,Pennsylvania,Mid East,Public,Distant Town,10,3,55,43,53,40
+Lock Haven University,97,410,510,13,17,23,88,21874,29998,Pennsylvania,Mid East,Public,Distant Town,8,2,57,40,58,41
+Mansfield University of Pennsylvania,97,420,530,14,19,23,92,22434,32558,Pennsylvania,Mid East,Public,Distant Town,8,3,59,45,69,47
+Pennsylvania State University-Penn State Schuylkill,90,360,485,3,18,21,81,30150,36826,Pennsylvania,Mid East,Public,Distant Town,21,6,61,36,87,62
+Slippery Rock University of Pennsylvania,100,450,540,30,19,23,67,22132,25634,Pennsylvania,Mid East,Public,Distant Town,5,2,56,54,49,32
+SUNY at Fredonia,82,470,570,27,21,26,52,21638,31088,New York,Mid East,Public,Distant Town,5,5,55,57,65,35
+SUNY College at Cortland,87,480,550,19,21,25,47,22634,32084,New York,Mid East,Public,Distant Town,4,10,56,61,57,26
+SUNY College at Geneseo,57,580,690,42,27,29,46,21672,31122,New York,Mid East,Public,Distant Town,3,6,58,74,42,18
+SUNY College at Oswego,96,520,590,33,22,26,49,21991,31441,New York,Mid East,Public,Distant Town,6,9,52,51,78,40
+SUNY College at Plattsburgh,89,460,550,29,20,24,46,21309,30759,New York,Mid East,Public,Distant Town,6,8,56,53,77,34
+SUNY College of Agriculture and Technology at Cobleskill,80,450,540,6,16,22,73,22661,32111,New York,Mid East,Public,Distant Town,11,10,52,38,77,54
+Susquehanna University,80,510,620,17,23,27,72,51400,51400,Pennsylvania,Mid East,Private,Distant Town,5,5,56,73,98,25
+Washington College,95,520,640,22,24,29,67,54312,54312,Maryland,Mid East,Private,Distant Town,3,4,58,67,91,15
+Waynesburg University,71,450,560,29,20,25,75,31500,31500,Pennsylvania,Mid East,Private,Distant Town,3,1,61,51,96,39
+Castleton State College,88,420,520,20,17,23,92,21828,35556,Vermont,New England,Public,Distant Town,1,2,52,45,65,34
+Middlebury College,73,630,740,41,31,33,17,59470,59470,Vermont,New England,Private,Distant Town,3,7,51,91,42,12
+Norwich University,77,470,570,32,21,26,63,49655,49655,Vermont,New England,Private,Distant Town,3,6,28,55,99,28
+Benedictine College,14,515,655,84,22,28,61,37855,37855,Kansas,Plains,Private,Distant Town,3,6,52,53,100,25
+Bethel College-North Newton,24,390,520,76,19,26,64,35170,35170,Kansas,Plains,Private,Distant Town,13,10,51,47,97,48
+Black Hills State University,5,423,635,89,19,23,89,17862,19862,South Dakota,Plains,Public,Distant Town,1,4,63,23,69,39
+Carleton College,61,660,750,58,29,33,21,60425,60425,Minnesota,Plains,Private,Distant Town,3,6,53,91,63,11
+Central College,4,470,580,97,21,26,66,45151,45151,Iowa,Plains,Private,Distant Town,2,3,53,64,100,30
+Central Methodist University-College of Liberal Arts and Sciences,5,410,480,97,19,24,65,32970,32970,Missouri,Plains,Private,Distant Town,3,1,51,37,100,44
+College of the Ozarks,3,510,560,98,20,25,13,27276,27276,Missouri,Plains,Private,Distant Town,1,2,53,60,100,67
+Concordia University-Nebraska,22,430,570,84,21,27,72,34550,34550,Nebraska,Plains,Private,Distant Town,3,4,51,56,100,28
+Dakota State University,7,400,620,92,19,24,83,18048,20048,South Dakota,Plains,Public,Distant Town,3,3,48,37,77,40
+Doane College-Crete,10,430,515,90,21,26,72,38380,38380,Nebraska,Plains,Private,Distant Town,4,6,50,57,100,34
+Hastings College,7,450,540,99,21,26,74,37152,37152,Nebraska,Plains,Private,Distant Town,3,5,49,52,100,32
+Northwestern College,17,423,605,91,21,27,76,39236,39236,Iowa,Plains,Private,Distant Town,2,6,57,59,100,35
+Ottawa University-Ottawa,11,390,530,93,19,25,99,36482,36482,Kansas,Plains,Private,Distant Town,10,6,44,29,100,37
+Saint Mary's University of Minnesota,5,465,550,93,20,26,75,39750,39750,Minnesota,Plains,Private,Distant Town,5,5,55,51,99,37
+Southwest Baptist University,7,400,550,85,20,26,90,30340,30340,Missouri,Plains,Private,Distant Town,5,1,64,43,95,48
+Southwestern College,18,398,548,79,20,25,90,37632,37632,Kansas,Plains,Private,Distant Town,10,8,43,49,100,43
+St Olaf College,37,590,710,78,26,31,59,51860,51860,Minnesota,Plains,Private,Distant Town,1,4,56,86,92,15
+University of Minnesota-Crookston,9,420,500,90,19,24,69,22722,22722,Minnesota,Plains,Public,Distant Town,4,2,53,40,88,42
+Wartburg College,11,380,540,87,21,26,78,45305,45305,Iowa,Plains,Private,Distant Town,6,2,53,61,98,27
+Westminster College,14,390,550,78,21,27,72,34800,34800,Missouri,Plains,Private,Distant Town,6,3,44,62,100,32
+William Woods University,16,472,590,84,19,26,75,35250,35250,Missouri,Plains,Private,Distant Town,4,1,73,52,100,40
+Brigham Young University-Idaho,37,450,560,84,20,25,100,11398,11398,Idaho,Rocky Mountains,Private,Distant Town,1,5,57,39,64,26
+Alderson Broaddus University,42,420,520,58,19,24,43,33296,33296,West Virginia,Southeast,Private,Distant Town,16,4,48,41,100,51
+Appalachian State University,88,520,620,19,24,28,63,19058,31266,North Carolina,Southeast,Public,Distant Town,3,4,53,58,39,24
+Berea College,15,510,630,80,22,26,34,31870,31870,Kentucky,Southeast,Private,Distant Town,15,4,57,56,100,91
+Bethel University,2,390,510,49,17,22,51,30196,30196,Tennessee,Southeast,Private,Distant Town,37,1,56,22,91,76
+Bryan College-Dayton,29,450,600,87,20,25,38,31075,31075,Tennessee,Southeast,Private,Distant Town,5,1,56,59,88,39
+Centre College,37,550,670,79,26,31,69,48020,48020,Kentucky,Southeast,Private,Distant Town,5,2,51,81,97,15
+Chowan University,72,360,430,39,14,17,62,31780,31780,North Carolina,Southeast,Private,Distant Town,70,3,53,20,100,74
+Claflin University,69,380,490,58,15,21,53,32300,32300,South Carolina,Southeast,Private,Distant Town,91,2,63,38,97,92
+Coker College,58,430,520,39,18,22,53,34689,34689,South Carolina,Southeast,Private,Distant Town,36,3,63,42,100,59
+Eastern Kentucky University,6,440,560,95,19,24,60,18960,28032,Kentucky,Southeast,Public,Distant Town,5,2,56,30,95,48
+Elizabeth City State University,96,380,450,3,16,18,57,13161,24018,North Carolina,Southeast,Public,Distant Town,74,1,59,34,92,77
+Fairmont State University,15,410,520,85,18,23,66,17310,23774,West Virginia,Southeast,Public,Distant Town,5,2,55,26,76,49
+Freed-Hardeman University,16,480,600,94,21,27,92,32908,32908,Tennessee,Southeast,Private,Distant Town,5,1,58,47,100,31
+Gardner-Webb University,77,440,550,51,19,25,48,37620,37620,North Carolina,Southeast,Private,Distant Town,16,2,65,51,98,39
+Georgia College and State University,65,530,610,59,22,26,68,23752,41652,Georgia,Southeast,Public,Distant Town,5,5,60,53,91,19
+Georgia Southwestern State University,68,440,520,31,18,22,68,19063,28825,Georgia,Southeast,Public,Distant Town,29,3,64,27,82,50
+Grambling State University,17,380,480,86,16,20,44,22720,31888,Louisiana,Southeast,Public,Distant Town,91,1,60,21,96,83
+Harding University,29,490,630,87,22,28,76,26634,26634,Arkansas,Southeast,Private,Distant Town,4,3,54,54,96,28
+Henderson State University,3,460,538,94,19,24,62,18934,25054,Arkansas,Southeast,Public,Distant Town,24,4,56,23,95,57
+John Brown University,30,500,640,82,22,28,70,34776,34776,Arkansas,Southeast,Private,Distant Town,2,5,56,62,95,31
+Kentucky Christian University,18,360,510,87,18,24,51,30256,30256,Kentucky,Southeast,Private,Distant Town,11,1,46,31,100,52
+Kentucky State University,12,350,450,93,16,20,38,17506,26302,Kentucky,Southeast,Public,Distant Town,56,1,59,13,83,75
+LaGrange College,65,460,550,56,19,23,58,40288,40288,Georgia,Southeast,Private,Distant Town,23,2,54,35,99,46
+Lander University,55,413,530,45,18,22,42,22300,31336,South Carolina,Southeast,Public,Distant Town,33,1,69,44,97,51
+Louisiana Tech University,4,450,590,93,21,26,67,18927,30066,Louisiana,Southeast,Public,Distant Town,13,1,47,41,91,32
+Mid-Atlantic Christian University,74,340,530,26,14,20,41,25090,25090,North Carolina,Southeast,Private,Distant Town,25,4,52,47,100,58
+Newberry College,72,410,520,58,17,22,59,40365,40365,South Carolina,Southeast,Private,Distant Town,26,4,46,38,100,56
+Ouachita Baptist University,19,440,550,91,21,27,70,32610,32610,Arkansas,Southeast,Private,Distant Town,8,4,53,56,99,29
+Piedmont College,77,450,560,45,19,24,61,34090,34090,Georgia,Southeast,Private,Distant Town,10,4,67,44,99,43
+Point University,63,420,535,63,18,22,54,27400,27400,Georgia,Southeast,Private,Distant Town,39,3,56,43,89,56
+Presbyterian College,60,490,600,40,22,28,66,46378,46378,South Carolina,Southeast,Private,Distant Town,11,1,55,65,100,27
+Rust College,2,310,360,77,13,14,14,15400,15400,Mississippi,Southeast,Private,Distant Town,95,0,61,17,97,94
+South Carolina State University,61,400,416,39,17,19,51,26244,35378,South Carolina,Southeast,Public,Distant Town,95,1,52,26,89,79
+Southern Virginia University,42,460,570,68,17,26,100,30300,30300,Virginia,Southeast,Private,Distant Town,4,2,53,31,100,39
+St Andrews University,67,430,510,49,18,23,64,40000,40000,North Carolina,Southeast,Private,Distant Town,14,1,53,29,100,42
+Tennessee Wesleyan College,9,430,510,90,19,24,71,31400,31400,Tennessee,Southeast,Private,Distant Town,7,2,62,39,95,51
+The University of Virginia's College at Wise,90,430,530,27,17,22,74,21567,36623,Virginia,Southeast,Public,Distant Town,9,2,58,35,93,55
+Tusculum College,37,400,520,90,18,23,72,35702,35702,Tennessee,Southeast,Private,Distant Town,11,2,57,27,97,67
+Tuskegee University,43,400,510,75,18,22,35,32853,32853,Alabama,Southeast,Private,Distant Town,78,0,58,32,73,54
+University of North Carolina at Pembroke,88,410,500,11,18,21,72,17622,26829,North Carolina,Southeast,Public,Distant Town,34,4,62,25,80,59
+Virginia Military Institute,78,520,620,44,22,27,47,25642,46630,Virginia,Southeast,Public,Distant Town,4,4,11,70,66,13
+Washington and Lee University,62,650,740,51,30,33,18,58575,58575,Virginia,Southeast,Private,Distant Town,2,3,50,88,54,10
+Bacone College,24,350,485,65,15,19,72,28010,28010,Oklahoma,Southwest,Private,Distant Town,30,8,37,2,83,83
+East Texas Baptist University,62,430,520,63,18,22,74,32160,32160,Texas,Southwest,Private,Distant Town,19,12,53,30,99,55
+Oklahoma Baptist University,19,460,600,87,21,27,56,33400,33400,Oklahoma,Southwest,Private,Distant Town,5,5,59,52,99,39
+Oklahoma State University-Main Campus,27,490,600,90,22,28,76,21842,34427,Oklahoma,Southwest,Public,Distant Town,5,5,49,49,77,27
+Oklahoma Wesleyan University,33,410,520,78,18,24,49,34960,34960,Oklahoma,Southwest,Private,Distant Town,7,7,61,55,100,45
+Prairie View A & M University,77,370,460,45,15,20,42,17592,26178,Texas,Southwest,Public,Distant Town,86,6,58,26,87,74
+Sam Houston State University,68,450,540,42,19,23,65,20024,28520,Texas,Southwest,Public,Distant Town,18,19,59,42,71,46
+Texas A & M University-Commerce,72,430,540,54,18,24,68,14867,25487,Texas,Southwest,Public,Distant Town,20,14,59,36,87,57
+Texas A & M University-Kingsville,66,380,490,59,16,21,88,20423,31043,Texas,Southwest,Public,Distant Town,7,67,54,27,84,59
+University of Science and Arts of Oklahoma,4,475,545,86,18,24,62,13106,19538,Oklahoma,Southwest,Public,Distant Town,4,6,64,34,93,40
+Pacific Union College,79,450,570,30,18,25,51,39852,39852,California,Far West,Private,Fringe Rural,8,27,56,32,100,50
+Saint Mary's College of California,80,500,600,43,22,27,69,58365,58365,California,Far West,Private,Fringe Rural,4,25,59,56,89,25
+Central State University,13,370,470,57,15,19,33,17804,25256,Ohio,Great Lakes,Public,Fringe Rural,95,1,53,18,87,81
+Indiana University-East,67,410,520,46,18,23,54,,,Indiana,Great Lakes,Public,Fringe Rural,3,2,65,18,74,57
+Lakeland College,3,410,520,98,19,24,66,35460,35460,Wisconsin,Great Lakes,Private,Fringe Rural,5,4,56,45,99,49
+Purdue University-North Central Campus,70,430,520,24,17,23,72,,,Indiana,Great Lakes,Public,Fringe Rural,5,10,60,16,50,46
+Saint Mary-of-the-Woods College,69,390,520,31,15,22,98,42362,42362,Indiana,Great Lakes,Private,Fringe Rural,4,1,97,56,100,51
+Wilmington College,19,420,550,94,19,24,46,40057,40057,Ohio,Great Lakes,Private,Fringe Rural,8,0,53,36,100,51
+DeSales University,88,470,590,18,22,26,76,48398,48398,Pennsylvania,Mid East,Private,Fringe Rural,5,9,62,68,99,23
+Hamilton College,58,640,730,25,29,33,27,59590,59590,New York,Mid East,Private,Fringe Rural,4,8,51,92,54,18
+Pennsylvania State University-Penn State Fayette- Eberly,91,410,520,2,18,21,89,,,Pennsylvania,Mid East,Public,Fringe Rural,4,2,56,34,85,51
+Pennsylvania State University-Penn State New Kensington,93,430,550,4,16,27,74,,,Pennsylvania,Mid East,Public,Fringe Rural,4,1,42,47,87,32
+Pennsylvania State University-Penn State Wilkes-Barre,94,430,550,4,19,23,82,,,Pennsylvania,Mid East,Public,Fringe Rural,4,6,27,41,81,34
+Stevenson University,93,440,540,20,18,23,60,43556,43556,Maryland,Mid East,Private,Fringe Rural,28,4,65,50,99,33
+Franklin Pierce University,95,440,530,6,16,21,85,45898,45898,New Hampshire,New England,Private,Fringe Rural,4,5,56,42,100,30
+Southern Vermont College,77,400,490,15,16,20,99,35500,35500,Vermont,New England,Private,Fringe Rural,9,9,62,28,99,46
+Thomas College,93,390,490,4,16,21,72,35494,35494,Maine,New England,Private,Fringe Rural,3,2,52,41,98,55
+Crown College,4,370,435,85,18,24,55,35080,35080,Minnesota,Plains,Private,Fringe Rural,7,4,53,46,96,42
+Saint Johns University,15,475,610,89,23,28,75,48546,48546,Minnesota,Plains,Private,Fringe Rural,3,4,0,76,100,18
+University of Mary,10,450,570,89,20,25,83,24121,24121,North Dakota,Plains,Private,Fringe Rural,3,3,64,38,100,20
+University of Idaho,51,480,590,71,20,26,66,19598,32674,Idaho,Rocky Mountains,Public,Fringe Rural,1,8,47,42,87,38
+Bethany College,62,380,530,56,17,24,49,39082,39082,West Virginia,Southeast,Private,Fringe Rural,20,3,44,44,99,51
+Emory & Henry College,77,430,560,47,18,25,66,41866,41866,Virginia,Southeast,Private,Fringe Rural,10,2,48,43,100,40
+Louisiana State University and Agricultural & Mechanical College,11,500,620,89,23,28,76,23227,41144,Louisiana,Southeast,Public,Fringe Rural,11,5,52,56,88,23
+Mid-Continent University,2,350,500,70,15,24,70,26041,26041,Kentucky,Southeast,Private,Fringe Rural,14,2,65,11,94,83
+North Greenville University,68,450,670,62,21,29,58,30000,30000,South Carolina,Southeast,Private,Fringe Rural,7,2,50,50,100,40
+Reinhardt University,66,437,590,34,18,25,51,32794,32794,Georgia,Southeast,Private,Fringe Rural,17,5,50,25,89,43
+Toccoa Falls College,66,450,590,39,17,23,49,31792,31792,Georgia,Southeast,Private,Fringe Rural,6,2,53,41,100,61
+Truett-McConnell College,81,430,530,51,17,22,81,28410,28410,Georgia,Southeast,Private,Fringe Rural,6,3,57,13,100,45
+University of Mobile,13,470,610,87,20,25,71,32570,32570,Alabama,Southeast,Private,Fringe Rural,22,1,67,43,93,34
+Warner University,39,410,490,53,17,21,34,29879,29879,Florida,Southeast,Private,Fringe Rural,40,12,52,35,98,72
+West Liberty University,10,400,510,90,18,24,71,20026,27340,West Virginia,Southeast,Public,Fringe Rural,5,1,60,33,85,50
+West Virginia University Institute of Technology,23,430,530,80,18,24,51,17673,26481,West Virginia,Southeast,Public,Fringe Rural,7,5,38,13,88,55
+Western Carolina University,87,460,560,17,20,24,38,18599,28196,North Carolina,Southeast,Public,Fringe Rural,6,4,55,44,71,39
+Embry-Riddle Aeronautical University-Prescott,71,500,630,53,23,29,79,46314,46314,Arizona,Southwest,Private,Fringe Rural,2,7,21,51,90,20
+Stephen F Austin State University,78,430,540,50,19,24,57,22948,33568,Texas,Southwest,Public,Fringe Rural,22,14,63,35,71,46
+Texas A & M University-Texarkana,28,430,540,43,19,23,37,16078,24502,Texas,Southwest,Public,Fringe Rural,16,11,64,,97,50
+Brigham Young University-Hawaii,34,470,590,73,21,26,36,16564,16564,Hawaii,Far West,Private,Fringe Town,0,5,56,36,70,22
+Eastern Washington University,86,420,540,22,18,23,80,21626,33277,Washington,Far West,Public,Fringe Town,4,12,54,34,70,43
+George Fox University,83,470,600,39,20,26,75,43800,43800,Oregon,Far West,Private,Fringe Town,2,7,57,58,97,35
+Albion College,5,520,580,97,22,28,56,48195,48195,Michigan,Great Lakes,Private,Fringe Town,3,3,49,70,99,24
+Andrews University,47,470,620,66,20,26,38,35538,35538,Michigan,Great Lakes,Private,Fringe Town,22,13,56,47,100,35
+Ashland University,11,430,550,94,20,25,74,42833,42833,Ohio,Great Lakes,Private,Fringe Town,13,2,51,51,97,37
+Bowling Green State University-Main Campus,15,440,560,92,19,24,72,23506,30814,Ohio,Great Lakes,Public,Fringe Town,10,4,56,45,87,36
+Cedarville University,51,540,640,76,24,29,74,35020,35020,Ohio,Great Lakes,Private,Fringe Town,1,2,53,69,95,20
+Eureka College,8,565,665,92,19,26,68,30900,30900,Illinois,Great Lakes,Private,Fringe Town,5,3,59,55,100,43
+Hiram College,22,430,600,86,19,25,57,43145,43145,Ohio,Great Lakes,Private,Fringe Town,13,4,55,62,100,45
+Maranatha Baptist University,13,455,585,89,20,26,71,24712,24712,Wisconsin,Great Lakes,Private,Fringe Town,2,2,54,38,69,50
+Miami University-Oxford,32,540,650,85,25,30,67,29701,45491,Ohio,Great Lakes,Public,Fringe Town,4,3,52,76,72,13
+Oberlin College,71,650,740,42,28,32,30,62132,62132,Ohio,Great Lakes,Private,Fringe Town,5,7,55,84,83,10
+Ohio Northern University,95,490,620,22,23,29,68,50960,50960,Ohio,Great Lakes,Private,Fringe Town,3,2,48,63,97,29
+University of Mount Union,23,440,540,90,20,25,71,38895,38895,Ohio,Great Lakes,Private,Fringe Town,6,2,50,59,79,34
+Edinboro University of Pennsylvania,74,410,520,24,17,22,87,20287,24139,Pennsylvania,Mid East,Public,Fringe Town,7,3,58,37,65,47
+Kutztown University of Pennsylvania,97,430,520,12,18,22,82,22265,32389,Pennsylvania,Mid East,Public,Fringe Town,7,6,57,47,46,34
+Mount Aloysius College,82,400,490,23,18,22,69,34598,34598,Pennsylvania,Mid East,Private,Fringe Town,2,1,72,25,100,50
+Mount St Mary's University,81,500,600,19,17,23,67,48858,48858,Maryland,Mid East,Private,Fringe Town,10,9,55,64,100,20
+Pennsylvania State University-Penn State Mont Alto,88,410,530,4,20,23,83,30070,36676,Pennsylvania,Mid East,Public,Fringe Town,10,4,60,47,76,41
+Saint Francis University,93,460,510,44,20,25,76,45038,45038,Pennsylvania,Mid East,Private,Fringe Town,6,2,62,66,98,28
+Shippensburg University of Pennsylvania,99,440,530,17,18,22,83,24046,32514,Pennsylvania,Mid East,Public,Fringe Town,9,4,50,48,46,31
+SUNY College at Brockport,94,470,570,41,21,26,48,20952,30402,New York,Mid East,Public,Fringe Town,8,5,55,60,68,38
+Thiel College,79,430,520,37,18,23,66,41078,41078,Pennsylvania,Mid East,Private,Fringe Town,7,2,50,32,92,47
+University of Maryland Eastern Shore,89,400,480,16,16,19,55,21454,29960,Maryland,Mid East,Public,Fringe Town,73,2,55,24,62,58
+Westminster College,84,460,580,38,20,25,73,43805,43805,Pennsylvania,Mid East,Private,Fringe Town,3,1,59,72,100,34
+Bowdoin College,53,680,760,27,30,33,15,59900,59900,Maine,New England,Private,Fringe Town,5,12,50,91,50,14
+Eastern Connecticut State University,94,460,550,13,20,24,65,24394,35899,Connecticut,New England,Public,Fringe Town,6,9,54,44,57,26
+Massachusetts College of Liberal Arts,89,480,580,8,20,25,67,21363,30308,Massachusetts,New England,Public,Fringe Town,9,6,60,50,78,48
+Williams College,86,670,780,37,30,34,17,61850,61850,Massachusetts,New England,Private,Fringe Town,8,12,52,93,53,19
+Baker University,9,440,545,100,21,26,87,39407,39407,Kansas,Plains,Private,Fringe Town,10,5,57,46,100,26
+Cornell College,32,520,670,83,23,29,64,48905,48905,Iowa,Plains,Private,Fringe Town,5,13,55,66,96,37
+Gustavus Adolphus College,6,550,680,70,24,30,63,50110,50110,Minnesota,Plains,Private,Fringe Town,2,3,54,82,97,24
+University of Saint Mary,34,410,500,80,19,24,47,34536,34536,Kansas,Plains,Private,Fringe Town,10,7,65,50,100,40
+Asbury University,32,500,620,83,21,27,66,35494,35494,Kentucky,Southeast,Private,Fringe Town,3,2,60,61,97,48
+Barton College,77,410,500,63,18,22,42,39254,39254,North Carolina,Southeast,Private,Fringe Town,25,4,69,45,100,52
+Brevard College,76,420,520,48,18,22,45,37000,37000,North Carolina,Southeast,Private,Fringe Town,10,0,38,38,99,44
+Campbell University,84,380,655,43,17,27,70,42580,42580,North Carolina,Southeast,Private,Fringe Town,17,6,50,45,100,38
+Cumberland University,12,420,540,92,19,23,47,34130,34130,Tennessee,Southeast,Private,Fringe Town,11,3,54,31,99,47
+Georgetown College,8,410,610,95,21,26,82,44110,44110,Kentucky,Southeast,Private,Fringe Town,10,3,54,52,98,37
+Limestone College,65,450,530,35,20,23,53,36416,36416,South Carolina,Southeast,Private,Fringe Town,50,2,57,29,99,47
+Mount Olive College,62,400,490,11,17,20,50,27850,27850,North Carolina,Southeast,Private,Fringe Town,33,4,67,33,98,40
+Shepherd University,57,460,560,56,19,24,81,19311,28895,West Virginia,Southeast,Public,Fringe Town,8,3,57,30,75,36
+University of South Carolina-Beaufort,69,410,500,44,18,22,73,21396,31248,South Carolina,Southeast,Public,Fringe Town,19,5,61,20,81,42
+University of West Georgia,76,440,520,52,18,22,54,21299,31365,Georgia,Southeast,Public,Fringe Town,34,4,63,32,81,51
+Webber International University,63,330,530,64,17,24,64,37173,37173,Florida,Southeast,Private,Fringe Town,22,15,31,22,99,49
+Southwestern Adventist University,64,420,550,40,17,22,54,29602,29602,Texas,Southwest,Private,Fringe Town,15,41,58,32,99,54
+Texas Lutheran University,82,450,560,51,20,25,51,37620,37620,Texas,Southwest,Private,Fringe Town,8,31,52,44,100,41
+West Texas A & M University,47,420,540,74,19,24,74,19154,19874,Texas,Southwest,Public,Fringe Town,5,23,55,34,77,41
+Alaska Pacific University,74,465,575,26,20,24,37,43180,43180,Alaska,Far West,Private,Large City,3,3,66,33,100,42
+California Baptist University,82,430,550,44,18,24,79,42228,42228,California,Far West,Private,Large City,8,30,64,51,93,46
+California State University-Bakersfield,90,390,500,24,15,22,66,21186,32346,California,Far West,Public,Large City,6,49,61,29,74,64
+California State University-Fresno,89,400,510,39,16,22,58,20682,31842,California,Far West,Public,Large City,4,42,57,33,72,62
+California State University-Long Beach,95,440,550,33,18,24,31,22106,33266,California,Far West,Public,Large City,4,37,57,39,58,49
+California State University-Los Angeles,95,380,480,32,15,20,68,21705,32865,California,Far West,Public,Large City,5,60,59,22,76,72
+California State University-Northridge,91,400,510,25,16,22,46,21669,32829,California,Far West,Public,Large City,6,40,55,31,64,58
+California State University-Sacramento,92,410,520,34,17,22,70,23209,34369,California,Far West,Public,Large City,6,26,57,27,65,56
+Chaminade University of Honolulu,72,430,520,29,19,23,84,35309,35309,Hawaii,Far West,Private,Large City,6,6,66,34,99,40
+Concordia University-Portland,79,440,550,39,18,24,56,39022,39022,Oregon,Far West,Private,Large City,6,7,68,48,99,37
+Fresno Pacific University,98,440,550,39,18,22,78,36991,36991,California,Far West,Private,Large City,5,40,68,50,99,55
+Hawaii Pacific University,58,430,550,36,19,25,64,36590,36590,Hawaii,Far West,Private,Large City,5,13,56,31,91,38
+Holy Names University,97,410,500,40,17,21,57,49041,49041,California,Far West,Private,Large City,20,28,69,31,100,48
+La Sierra University,87,400,510,29,17,22,47,41490,41490,California,Far West,Private,Large City,7,41,58,47,100,55
+Lewis & Clark College,59,600,700,37,26,31,63,55666,55666,Oregon,Far West,Private,Large City,2,8,59,72,85,21
+Loyola Marymount University,79,540,640,44,25,29,54,57379,57379,California,Far West,Private,Large City,6,22,57,72,84,20
+Mills College,86,540,640,36,23,28,68,56812,56812,California,Far West,Private,Large City,6,22,100,59,99,42
+Mount St Mary's College,91,420,510,35,16,22,74,51100,51100,California,Far West,Private,Large City,7,58,94,61,100,70
+Occidental College,80,600,700,46,27,31,42,63363,63363,California,Far West,Private,Large City,4,16,56,86,65,21
+Point Loma Nazarene University,86,520,630,48,23,28,67,44593,44593,California,Far West,Private,Large City,3,19,63,68,86,27
+Reed College,84,660,750,36,28,33,49,59630,59630,Oregon,Far West,Private,Large City,2,11,52,77,46,18
+San Diego State University,92,480,590,42,21,26,31,25068,36228,California,Far West,Public,Large City,4,29,55,53,48,34
+San Francisco State University,93,430,550,23,19,24,64,23828,34988,California,Far West,Public,Large City,5,24,57,31,53,47
+San Jose State University,94,440,550,24,19,25,63,23629,34789,California,Far West,Public,Large City,3,24,49,30,45,40
+Seattle Pacific University,84,520,630,41,23,28,72,47674,47674,Washington,Far West,Private,Large City,4,8,66,63,97,32
+Seattle University,81,520,640,39,24,29,73,52605,52605,Washington,Far West,Private,Large City,3,9,58,70,96,19
+University of California-Los Angeles,91,560,680,41,25,31,22,32416,55294,California,Far West,Public,Large City,3,18,55,82,54,31
+University of California-Riverside,96,470,580,40,20,25,62,32238,55116,California,Far West,Public,Large City,5,36,51,56,80,56
+University of California-San Diego,93,550,660,39,25,31,38,30470,53348,California,Far West,Public,Large City,1,16,48,74,54,30
+University of Hawaii at Manoa,77,480,580,11,21,27,80,22996,40564,Hawaii,Far West,Public,Large City,1,9,55,40,67,28
+University of San Diego,73,540,650,53,25,30,49,58189,58189,California,Far West,Private,Large City,3,19,55,71,72,17
+University of San Francisco,75,530,630,43,23,27,61,58384,58384,California,Far West,Private,Large City,3,19,62,64,66,24
+University of Southern California,79,620,720,41,29,33,20,62180,62180,California,Far West,Private,Large City,4,13,50,86,59,18
+University of the Pacific,89,500,640,39,22,29,73,57033,57033,California,Far West,Private,Large City,3,19,52,54,90,29
+University of Washington-Seattle Campus,86,520,650,31,25,30,55,27034,46608,Washington,Far West,Public,Large City,3,7,52,72,36,22
+Woodbury University,82,420,540,23,19,25,56,48512,48512,California,Far West,Private,Large City,4,29,51,33,77,49
+Butler University,56,530,630,79,25,30,66,49698,49698,Indiana,Great Lakes,Private,Large City,4,3,61,63,93,17
+Case Western Reserve University,65,600,720,60,29,33,42,57798,57798,Ohio,Great Lakes,Private,Large City,5,5,45,74,86,20
+Chicago State University,3,430,510,99,17,20,29,23202,29594,Illinois,Great Lakes,Public,Large City,78,6,71,13,91,85
+Cleveland State University,22,450,570,88,19,25,63,25317,28496,Ohio,Great Lakes,Public,Large City,19,5,54,21,80,53
+DePaul University,20,530,630,86,23,28,60,49367,49367,Illinois,Great Lakes,Private,Large City,8,17,54,64,94,28
+Illinois Institute of Technology,27,520,640,74,25,30,57,54677,54677,Illinois,Great Lakes,Private,Large City,7,14,30,51,100,34
+Indiana University-Purdue University-Fort Wayne,91,440,540,36,19,24,83,23481,33313,Indiana,Great Lakes,Public,Large City,5,5,55,16,59,43
+Indiana University-Purdue University-Indianapolis,84,440,550,41,19,25,70,21680,42495,Indiana,Great Lakes,Public,Large City,11,5,57,30,63,40
+Loyola University Chicago,23,520,630,86,24,29,91,51273,51273,Illinois,Great Lakes,Private,Large City,4,13,64,67,95,28
+Marian University,80,460,550,60,19,25,58,41219,41219,Indiana,Great Lakes,Private,Large City,13,4,64,43,99,42
+Marquette University,16,520,630,90,25,29,57,48669,48669,Wisconsin,Great Lakes,Private,Large City,5,9,52,71,100,17
+Milwaukee School of Engineering,6,540,640,87,25,30,68,46220,46220,Wisconsin,Great Lakes,Private,Large City,3,5,23,49,97,27
+Mount Mary University,7,468,575,97,17,23,54,37512,37512,Wisconsin,Great Lakes,Private,Large City,21,14,98,32,100,62
+Ohio Dominican University,18,440,540,92,20,24,49,42087,42087,Ohio,Great Lakes,Private,Large City,22,3,58,37,100,49
+Ohio State University-Main Campus,39,540,660,83,27,31,56,25479,41199,Ohio,Great Lakes,Public,Large City,6,3,47,74,72,19
+Roosevelt University,13,480,630,87,19,25,79,44632,44632,Illinois,Great Lakes,Private,Large City,20,19,62,35,94,47
+Saint Xavier University,4,455,570,99,19,24,51,41772,41772,Illinois,Great Lakes,Private,Large City,16,23,67,41,100,57
+University of Chicago,70,720,800,51,32,35,9,64988,64988,Illinois,Great Lakes,Private,Large City,5,9,47,91,63,12
+University of Cincinnati-Main Campus,89,490,620,29,22,28,73,27434,42466,Ohio,Great Lakes,Public,Large City,8,3,50,49,58,23
+University of Detroit Mercy,9,480,610,94,22,28,61,52400,52400,Michigan,Great Lakes,Private,Large City,10,3,65,48,99,33
+University of Illinois at Chicago,6,490,600,99,21,26,71,29320,41710,Illinois,Great Lakes,Public,Large City,8,25,50,46,67,54
+University of Indianapolis,82,450,550,53,19,25,84,38378,38378,Indiana,Great Lakes,Private,Large City,11,3,67,52,98,37
+University of Saint Francis-Fort Wayne,77,440,530,52,19,23,54,36492,36492,Indiana,Great Lakes,Private,Large City,6,6,71,45,100,42
+University of Toledo,11,450,570,92,19,25,91,24109,33229,Ohio,Great Lakes,Public,Large City,14,5,49,37,96,46
+Wisconsin Lutheran College,10,450,550,96,21,27,64,36330,36330,Wisconsin,Great Lakes,Private,Large City,6,5,53,57,100,36
+Xavier University,45,500,600,80,23,27,70,46520,46520,Ohio,Great Lakes,Private,Large City,10,4,54,72,100,16
+American University,67,590,690,35,26,30,43,56808,56808,District of Columbia,Mid East,Private,Large City,6,10,61,78,72,19
+Barnard College,73,620,730,47,28,32,21,61512,61512,New York,Mid East,Private,Large City,5,11,100,87,40,18
+Canisius College,94,480,590,45,22,27,73,48102,48102,New York,Mid East,Private,Large City,7,3,50,64,99,37
+Carlow University,93,435,525,33,17,23,95,38450,38450,Pennsylvania,Mid East,Private,Large City,14,2,82,56,100,57
+Carnegie Mellon University,90,640,740,34,30,34,25,62032,62032,Pennsylvania,Mid East,Private,Large City,5,7,42,82,54,13
+Catholic University of America,88,500,610,29,22,27,60,56842,56842,District of Columbia,Mid East,Private,Large City,6,10,54,66,93,11
+Chestnut Hill College,93,430,540,15,19,23,58,44378,44378,Pennsylvania,Mid East,Private,Large City,35,7,68,35,98,41
+College of Mount Saint Vincent,88,420,500,12,17,23,73,44835,44835,New York,Mid East,Private,Large City,17,34,72,46,100,62
+Columbia University in the City of New York,90,690,780,32,31,34,7,64144,64144,New York,Mid East,Private,Large City,7,14,47,90,49,15
+Cooper Union for the Advancement of Science and Art,86,610,710,12,29,33,8,60075,60075,New York,Mid East,Private,Large City,6,9,36,77,100,15
+Drexel University,87,510,630,23,24,30,81,57870,57870,Pennsylvania,Mid East,Private,Large City,7,6,47,54,93,18
+Duquesne University,91,510,600,44,22,27,74,44567,44567,Pennsylvania,Mid East,Private,Large City,4,3,59,72,100,20
+D'Youville College,92,480,580,47,20,25,79,37570,37570,New York,Mid East,Private,Large City,12,5,73,32,99,38
+Fordham University,82,570,670,34,26,30,47,63438,63438,New York,Mid East,Private,Large City,4,14,54,79,92,20
+Gallaudet University,12,348,435,95,15,20,66,31988,31988,District of Columbia,Mid East,Private,Large City,11,14,54,35,87,48
+George Washington University,75,600,690,37,27,31,33,61446,61446,District of Columbia,Mid East,Private,Large City,7,7,55,79,65,12
+Georgetown University,87,650,750,35,29,33,17,62179,62179,District of Columbia,Mid East,Private,Large City,6,8,55,90,42,14
+Holy Family University,94,420,510,8,16,22,76,41960,41960,Pennsylvania,Mid East,Private,Large City,7,6,74,48,99,39
+Howard University,76,490,590,48,21,26,49,41643,41643,District of Columbia,Mid East,Private,Large City,91,0,67,52,76,47
+Johns Hopkins University,79,650,740,39,30,34,18,61502,61502,Maryland,Mid East,Private,Large City,6,10,51,90,48,15
+La Salle University,89,440,550,15,19,25,80,51770,51770,Pennsylvania,Mid East,Private,Large City,19,10,65,61,98,44
+LIU Brooklyn,86,400,500,9,17,22,87,50514,50514,New York,Mid East,Private,Large City,32,16,70,16,97,71
+Loyola University Maryland,62,540,627,22,25,29,58,58578,58578,Maryland,Mid East,Private,Large City,5,9,59,82,66,15
+Manhattan College,84,480,580,15,23,27,66,52005,52005,New York,Mid East,Private,Large City,4,18,44,69,91,31
+Marymount Manhattan College,84,480,590,28,21,26,75,48740,48740,New York,Mid East,Private,Large City,10,16,77,41,89,30
+Morgan State University,84,410,490,14,16,19,58,22269,31683,Maryland,Mid East,Public,Large City,84,3,55,24,78,60
+New Jersey Institute of Technology,96,480,590,7,22,29,65,31484,44540,New Jersey,Mid East,Public,Large City,8,19,24,42,71,35
+New York University,78,620,720,22,28,32,26,63540,63540,New York,Mid East,Private,Large City,5,10,60,81,48,20
+Notre Dame of Maryland University,86,470,590,12,20,23,50,45650,45650,Maryland,Mid East,Private,Large City,28,6,95,50,99,58
+Pace University-New York,90,470,570,9,21,25,77,56999,56999,New York,Mid East,Private,Large City,11,16,59,45,99,42
+Philadelphia University,77,480,570,18,21,25,64,49426,49426,Pennsylvania,Mid East,Private,Large City,13,7,65,54,98,29
+Point Park University,84,450,560,32,19,25,74,39800,39800,Pennsylvania,Mid East,Private,Large City,16,3,57,47,99,39
+Polytechnic Institute of New York University,87,550,660,18,28,32,75,59570,59570,New York,Mid East,Private,Large City,6,9,24,47,93,42
+Saint Joseph's College-New York,88,470,570,24,21,25,75,,,New York,Mid East,Private,Large City,10,12,69,66,95,34
+Saint Joseph's University,91,510,590,26,22,26,79,54772,54772,Pennsylvania,Mid East,Private,Large City,7,5,54,76,96,11
+Saint Peter's University,99,410,490,8,16,21,54,47842,47842,New Jersey,Mid East,Private,Large City,28,28,61,46,100,64
+St John's University-New York,93,480,590,19,21,27,53,56971,56971,New York,Mid East,Private,Large City,15,16,55,46,97,43
+SUNY Maritime College,90,450,570,38,20,26,64,22614,32064,New York,Mid East,Public,Large City,4,9,11,40,45,20
+Temple University,92,500,610,20,22,27,64,29632,39658,Pennsylvania,Mid East,Public,Large City,13,5,51,55,82,27
+The Kings College,57,540,630,45,24,28,71,48717,48717,New York,Mid East,Private,Large City,3,8,60,60,100,34
+The New School,52,505,635,15,22,28,67,59691,59691,New York,Mid East,Private,Large City,5,10,72,59,94,26
+University of Pennsylvania,81,670,760,40,30,34,12,61800,61800,Pennsylvania,Mid East,Private,Large City,7,9,52,93,51,15
+University of Pittsburgh-Pittsburgh Campus,89,570,660,41,26,30,56,32126,42132,Pennsylvania,Mid East,Public,Large City,5,3,50,74,48,16
+Wagner College,64,530,630,14,22,27,70,53924,53924,New York,Mid East,Private,Large City,6,9,65,58,99,21
+Yeshiva University,66,550,680,36,23,29,82,55075,55075,New York,Mid East,Private,Large City,0,0,47,75,83,17
+Boston University,84,570,670,40,26,30,46,61446,61446,Massachusetts,New England,Private,Large City,3,9,60,83,54,15
+Emerson College,84,590,670,32,26,30,48,53554,53554,Massachusetts,New England,Private,Large City,3,10,63,81,57,15
+Emmanuel College,93,500,590,18,21,26,60,51363,51363,Massachusetts,New England,Private,Large City,5,5,73,55,99,26
+Northeastern University,53,640,730,33,30,33,32,58096,58096,Massachusetts,New England,Private,Large City,3,7,51,54,72,15
+Simmons College,91,520,630,24,23,28,49,52610,52610,Massachusetts,New England,Private,Large City,6,6,100,69,97,25
+Suffolk University,89,440,560,9,20,25,83,49979,49979,Massachusetts,New England,Private,Large City,5,11,55,49,77,35
+Wentworth Institute of Technology,89,480,580,14,21,27,58,46750,46750,Massachusetts,New England,Private,Large City,5,4,18,57,99,31
+Wheelock College,91,440,550,15,19,25,73,47870,47870,Massachusetts,New England,Private,Large City,11,11,88,50,100,31
+Augsburg College,6,495,623,93,20,25,61,45465,45465,Minnesota,Plains,Private,Large City,9,6,55,58,99,46
+Avila University,6,400,580,94,20,24,61,36414,36414,Missouri,Plains,Private,Large City,19,7,65,41,100,42
+Concordia University-Saint Paul,3,480,550,81,18,24,52,30850,30850,Minnesota,Plains,Private,Large City,13,4,58,40,99,49
+Creighton University,30,520,640,86,24,30,77,48058,48058,Nebraska,Plains,Private,Large City,3,7,59,73,99,19
+Friends University,14,350,490,80,18,24,59,36005,36005,Kansas,Plains,Private,Large City,10,4,56,26,99,44
+Grace University,14,400,465,82,19,24,58,28958,28958,Nebraska,Plains,Private,Large City,9,10,52,34,100,44
+Hamline University,11,480,640,94,21,27,66,46398,46398,Minnesota,Plains,Private,Large City,6,6,58,63,100,41
+Macalester College,59,620,740,56,29,32,34,57478,57478,Minnesota,Plains,Private,Large City,3,6,61,86,78,17
+Nebraska Wesleyan University,6,470,610,96,22,26,77,39492,39492,Nebraska,Plains,Private,Large City,3,4,62,63,100,26
+Newman University,8,460,610,90,20,27,45,34408,34408,Kansas,Plains,Private,Large City,4,11,62,43,99,34
+North Central University,13,460,550,91,19,26,95,30248,30248,Minnesota,Plains,Private,Large City,3,5,54,34,100,46
+Rockhurst University,8,500,640,97,23,28,75,45235,45235,Missouri,Plains,Private,Large City,6,5,60,66,100,21
+Saint Louis University,18,530,640,87,25,30,64,53438,53438,Missouri,Plains,Private,Large City,6,3,59,67,92,19
+St Catherine University,5,480,620,96,20,25,61,47012,47012,Minnesota,Plains,Private,Large City,10,5,97,52,99,45
+University of Minnesota-Twin Cities,14,550,690,92,26,30,44,25281,31531,Minnesota,Plains,Public,Large City,4,3,51,67,54,21
+University of Nebraska-Lincoln,7,490,660,93,22,28,64,22246,35574,Nebraska,Plains,Public,Large City,2,5,46,53,67,24
+University of St Thomas,6,520,640,97,23,28,86,48400,48400,Minnesota,Plains,Private,Large City,3,4,47,71,96,19
+Wichita State University,6,460,590,86,21,26,96,17397,25431,Kansas,Plains,Public,Large City,6,9,52,36,89,39
+Colorado College,49,610,710,47,27,32,22,57400,57400,Colorado,Rocky Mountains,Private,Large City,2,9,55,84,44,10
+Metropolitan State University of Denver,3,460,590,86,18,23,71,,,Colorado,Rocky Mountains,Public,Large City,6,21,54,16,50,40
+Regis University,30,490,600,67,21,26,70,46326,46326,Colorado,Rocky Mountains,Private,Large City,5,17,63,52,98,28
+University of Colorado Colorado Springs,20,470,580,90,21,25,91,20424,31837,Colorado,Rocky Mountains,Public,Large City,4,14,53,38,55,29
+University of Colorado Denver,18,490,600,86,20,26,76,24555,38679,Colorado,Rocky Mountains,Public,Large City,5,17,53,30,59,37
+University of Denver,44,540,660,70,25,30,77,56077,56077,Colorado,Rocky Mountains,Private,Large City,3,9,55,74,83,17
+Aquinas College,11,420,520,89,23,27,52,35933,35933,Tennessee,Southeast,Private,Large City,8,4,82,59,100,50
+Bellarmine University,24,490,590,92,22,27,95,52574,52574,Kentucky,Southeast,Private,Large City,4,3,64,61,100,27
+Belmont University,43,540,640,78,24,29,80,43030,43030,Tennessee,Southeast,Private,Large City,4,4,60,64,75,15
+Clark Atlanta University,60,390,470,50,17,21,57,35471,35471,Georgia,Southeast,Private,Large City,87,1,75,32,83,69
+Dillard University,22,400,470,85,17,20,35,30358,30358,Louisiana,Southeast,Private,Large City,90,1,71,21,99,80
+Edward Waters College,24,350,440,69,15,18,27,23833,23833,Florida,Southeast,Private,Large City,92,2,47,13,96,82
+Fisk University,43,420,430,62,17,18,40,35899,35899,Tennessee,Southeast,Private,Large City,87,1,66,47,95,62
+Georgia Institute of Technology-Main Campus,88,600,700,53,28,32,55,23384,42688,Georgia,Southeast,Public,Large City,6,6,33,66,67,14
+Georgia State University,86,480,580,45,20,25,55,24448,39016,Georgia,Southeast,Public,Large City,40,9,58,39,84,56
+Greensboro College,83,390,500,43,15,21,78,39376,39376,North Carolina,Southeast,Private,Large City,28,2,51,25,100,46
+Guilford College,65,460,610,28,20,26,68,45395,45395,North Carolina,Southeast,Private,Large City,24,5,56,54,98,38
+Jacksonville University,60,450,550,41,19,24,47,44670,44670,Florida,Southeast,Private,Large City,16,7,62,33,99,37
+Johnson C Smith University,78,363,470,50,15,19,37,32136,32136,North Carolina,Southeast,Private,Large City,73,6,59,39,83,61
+Lipscomb University,25,520,650,90,22,28,53,40448,40448,Tennessee,Southeast,Private,Large City,8,5,60,56,100,26
+Loyola University New Orleans,45,520,640,58,22,28,87,51760,51760,Louisiana,Southeast,Private,Large City,16,16,59,51,97,35
+Meredith College,68,460,570,31,20,25,62,41878,41878,North Carolina,Southeast,Private,Large City,11,3,100,58,100,35
+Morehouse College,67,450,550,52,18,23,67,47345,47345,Georgia,Southeast,Private,Large City,96,0,0,48,84,51
+North Carolina A & T State University,86,400,480,24,17,21,70,15929,27010,North Carolina,Southeast,Public,Large City,85,2,54,31,78,62
+North Carolina State University at Raleigh,76,550,640,19,25,30,50,22184,35639,North Carolina,Southeast,Public,Large City,7,4,44,61,55,21
+Queens University of Charlotte,81,470,560,47,21,26,77,44124,44124,North Carolina,Southeast,Private,Large City,18,5,72,49,97,35
+Regent University,85,500,630,28,19,25,85,28368,28368,Virginia,Southeast,Private,Large City,21,7,61,38,98,41
+Rhodes College,47,590,690,73,27,31,58,53422,53422,Tennessee,Southeast,Private,Large City,6,3,58,77,94,15
+Saint Augustine's University,52,330,423,47,13,17,67,31642,31642,North Carolina,Southeast,Private,Large City,97,0,50,27,80,68
+Southern University at New Orleans,1,420,650,99,15,18,49,16191,16191,Louisiana,Southeast,Public,Large City,83,1,75,8,58,58
+Spalding University,14,440,520,89,18,22,81,37439,37439,Kentucky,Southeast,Private,Large City,22,3,70,30,99,54
+Spelman College,74,470,570,55,20,24,38,42879,42879,Georgia,Southeast,Private,Large City,85,0,100,65,70,46
+The University of Tampa,75,480,570,47,21,26,52,39375,39375,Florida,Southeast,Private,Large City,6,12,55,57,93,21
+Transylvania University,21,520,660,89,24,30,96,43640,43640,Kentucky,Southeast,Private,Large City,3,3,57,70,100,30
+Trevecca Nazarene University,24,480,590,88,19,26,77,33322,33322,Tennessee,Southeast,Private,Large City,8,3,55,43,99,40
+Tulane University of Louisiana,58,620,700,63,29,32,26,61178,61178,Louisiana,Southeast,Private,Large City,9,6,58,71,75,10
+University of Kentucky,18,490,610,92,22,28,69,23732,34814,Kentucky,Southeast,Public,Large City,8,3,51,50,85,25
+University of Louisville,5,470,580,94,22,28,71,22796,36684,Kentucky,Southeast,Public,Large City,11,4,51,42,93,32
+University of Memphis,6,450,600,96,19,25,68,23535,38247,Tennessee,Southeast,Public,Large City,38,3,60,30,94,48
+University of New Orleans,12,470,590,90,21,25,50,19825,32315,Louisiana,Southeast,Public,Large City,15,10,50,23,85,44
+University of North Carolina at Charlotte,86,480,560,20,20,25,69,19080,31609,North Carolina,Southeast,Public,Large City,17,7,48,43,53,37
+University of North Carolina at Greensboro,90,460,560,10,21,25,60,19172,32970,North Carolina,Southeast,Public,Large City,25,6,65,45,62,48
+University of North Florida,52,540,620,48,23,26,53,20575,34978,Florida,Southeast,Public,Large City,10,9,55,38,91,31
+University of South Florida-Main Campus,56,530,620,44,23,28,45,20760,31674,Florida,Southeast,Public,Large City,11,19,55,52,96,42
+Vanderbilt University,44,700,780,62,32,34,13,61112,61112,Tennessee,Southeast,Private,Large City,8,8,50,91,62,13
+Virginia Wesleyan College,59,458,573,12,18,24,93,44190,44190,Virginia,Southeast,Private,Large City,23,6,61,42,98,40
+William Peace University,81,410,520,39,16,21,91,38900,38900,North Carolina,Southeast,Private,Large City,35,3,71,41,100,67
+Xavier University of Louisiana,30,440,560,88,20,26,54,31501,31501,Louisiana,Southeast,Private,Large City,77,2,71,39,96,60
+Arizona Christian University,39,440,580,57,20,25,61,35382,35382,Arizona,Southwest,Private,Large City,5,13,50,40,98,38
+Concordia University-Texas,72,450,550,45,20,25,47,38420,38420,Texas,Southwest,Private,Large City,12,22,65,27,97,38
+Dallas Baptist University,41,472,656,59,18,27,42,34176,34176,Texas,Southwest,Private,Large City,16,12,58,50,94,25
+Houston Baptist University,75,470,580,24,21,27,73,39001,39001,Texas,Southwest,Private,Large City,19,26,63,36,100,51
+Huston-Tillotson University,72,350,450,32,13,17,46,27044,27044,Texas,Southwest,Private,Large City,73,18,53,20,92,74
+Oklahoma Christian University,32,460,620,84,22,28,63,29825,29825,Oklahoma,Southwest,Private,Large City,4,3,49,41,98,28
+Oklahoma City University,35,490,620,81,23,29,72,44356,44356,Oklahoma,Southwest,Private,Large City,6,8,62,56,92,23
+Oral Roberts University,40,460,570,55,20,25,44,36950,36950,Oklahoma,Southwest,Private,Large City,15,8,56,48,96,37
+Our Lady of the Lake University,78,400,490,39,14,21,66,37078,37078,Texas,Southwest,Private,Large City,8,73,72,28,97,67
+Paul Quinn College,34,360,440,51,13,18,99,26300,26300,Texas,Southwest,Private,Large City,87,11,54,4,71,59
+Rice University,80,670,760,53,31,34,17,54291,54291,Texas,Southwest,Private,Large City,6,15,49,87,60,19
+Saint Edward's University,66,510,610,29,22,26,79,47500,47500,Texas,Southwest,Private,Large City,4,37,61,63,86,35
+St Mary's University,75,470,570,45,21,24,58,38192,38192,Texas,Southwest,Private,Large City,4,72,56,47,96,53
+Texas A & M University-Corpus Christi,81,420,520,44,17,23,93,20611,29107,Texas,Southwest,Public,Large City,5,46,58,33,60,46
+Texas Christian University,42,540,620,57,25,29,47,50720,50720,Texas,Southwest,Private,Large City,5,11,60,70,65,10
+Texas Southern University,76,370,450,40,15,19,45,24566,35186,Texas,Southwest,Public,Large City,84,6,59,12,89,78
+Texas Wesleyan University,52,460,550,34,19,22,30,35454,35454,Texas,Southwest,Private,Large City,15,20,51,31,95,39
+The University of Texas at Arlington,86,460,580,40,20,26,60,22234,30730,Texas,Southwest,Public,Large City,15,25,56,30,70,44
+The University of Texas at Austin,83,550,670,55,25,31,40,26156,50200,Texas,Southwest,Public,Large City,4,22,52,68,54,26
+The University of Texas at El Paso,62,390,500,30,17,22,100,21399,33319,Texas,Southwest,Public,Large City,3,83,54,27,76,67
+The University of Texas at San Antonio,80,450,570,38,20,25,73,20598,29172,Texas,Southwest,Public,Large City,9,48,47,21,71,43
+Trinity University,59,560,690,40,26,31,64,48630,48630,Texas,Southwest,Private,Large City,4,17,52,78,93,18
+University of Arizona,66,483,600,52,21,27,77,25179,42171,Arizona,Southwest,Public,Large City,3,24,52,53,75,30
+University of Houston,89,490,610,36,22,27,58,22463,30959,Texas,Southwest,Public,Large City,11,30,50,34,77,41
+University of Houston-Downtown,87,380,480,19,16,21,95,,,Texas,Southwest,Public,Large City,25,39,60,9,78,65
+University of New Mexico-Main Campus,19,470,610,90,19,25,65,20094,33936,New Mexico,Southwest,Public,Large City,3,44,56,34,96,38
+University of St Thomas,72,490,590,26,23,28,77,41486,41486,Texas,Southwest,Private,Large City,6,37,62,41,91,38
+University of the Incarnate Word,83,430,520,37,18,23,93,39124,39124,Texas,Southwest,Private,Large City,7,59,61,32,100,48
+University of Tulsa,25,560,710,64,25,32,41,51035,51035,Oklahoma,Southwest,Private,Large City,4,4,42,62,88,13
+Azusa Pacific University,86,490,600,42,21,27,80,45996,45996,California,Far West,Private,Large Suburb,5,23,64,58,89,26
+Biola University,85,500,620,40,22,27,73,46624,46624,California,Far West,Private,Large Suburb,2,17,62,60,93,28
+California State Polytechnic University-Pomona,95,460,570,27,20,26,52,22571,33731,California,Far West,Public,Large Suburb,3,37,43,32,53,43
+California State University-Fullerton,95,450,550,34,19,24,46,23505,34665,California,Far West,Public,Large Suburb,2,37,55,36,51,41
+California State University-San Marcos,96,430,530,34,18,23,63,23162,34322,California,Far West,Public,Large Suburb,3,36,60,33,57,45
+Claremont McKenna College,58,650,740,42,29,33,12,62010,62010,California,Far West,Private,Large Suburb,4,11,48,89,49,11
+Harvey Mudd College,89,680,760,41,32,35,18,63860,63860,California,Far West,Private,Large Suburb,1,9,46,89,71,16
+Hope International University,91,433,538,37,17,22,47,39537,39537,California,Far West,Private,Large Suburb,8,17,55,36,98,51
+Menlo College,87,432,532,31,19,25,37,53834,53834,California,Far West,Private,Large Suburb,6,21,38,36,98,33
+Northwest University,26,480,600,78,19,28,97,36174,36174,Washington,Far West,Private,Large Suburb,3,8,59,41,99,57
+Notre Dame de Namur University,77,430,550,45,18,22,87,49038,49038,California,Far West,Private,Large Suburb,6,34,67,44,97,49
+Pacific Lutheran University,86,490,610,32,22,28,77,48308,48308,Washington,Far West,Private,Large Suburb,3,7,62,64,98,29
+Pacific University,87,490,600,47,21,27,86,50486,50486,Oregon,Far West,Private,Large Suburb,1,10,58,58,98,29
+Pomona College,78,690,760,51,31,34,14,59730,59730,California,Far West,Private,Large Suburb,6,15,52,95,57,19
+San Diego Christian College,76,440,570,42,19,22,49,40252,40252,California,Far West,Private,Large Suburb,15,15,53,37,98,67
+Scripps College,73,640,733,43,29,32,36,61370,61370,California,Far West,Private,Large Suburb,3,8,100,83,52,12
+Soka University of America,91,500,640,28,25,29,43,43128,43128,California,Far West,Private,Large Suburb,5,8,64,82,100,26
+Sonoma State University,93,450,550,38,19,24,82,23295,34455,California,Far West,Public,Large Suburb,2,24,61,43,41,29
+Stanford University,86,680,780,39,31,34,6,60749,60749,California,Far West,Private,Large Suburb,6,16,49,88,53,14
+The Master's College and Seminary,79,490,620,35,22,27,61,42147,42147,California,Far West,Private,Large Suburb,4,11,47,52,95,33
+University of Hawaii-West Oahu,76,400,480,4,16,22,76,,,Hawaii,Far West,Public,Large Suburb,1,10,66,19,51,32
+University of La Verne,91,460,550,31,20,25,39,51997,51997,California,Far West,Private,Large Suburb,6,48,58,51,96,47
+University of Washington-Bothell Campus,88,430,560,23,19,23,76,27658,47232,Washington,Far West,Public,Large Suburb,5,8,50,57,56,39
+Whittier College,85,460,570,34,20,25,63,53700,53700,California,Far West,Private,Large Suburb,5,42,56,65,93,35
+Aurora University,7,460,560,93,19,24,76,33228,33228,Illinois,Great Lakes,Private,Large Suburb,9,20,63,53,100,43
+Baldwin Wallace University,34,470,610,78,21,27,64,39230,39230,Ohio,Great Lakes,Private,Large Suburb,9,5,55,65,100,41
+Calumet College of Saint Joseph,46,390,460,26,15,20,40,,,Indiana,Great Lakes,Private,Large Suburb,27,31,44,24,89,59
+Capital University,20,470,600,93,21,27,76,44350,44350,Ohio,Great Lakes,Private,Large Suburb,9,3,58,56,100,36
+Cardinal Stritch University,8,420,550,89,20,24,84,39369,39369,Wisconsin,Great Lakes,Private,Large Suburb,25,8,65,38,100,45
+College of Mount St Joseph,29,400,520,88,19,24,88,35880,35880,Ohio,Great Lakes,Private,Large Suburb,9,2,63,51,100,34
+Concordia University-Chicago,14,440,590,93,20,24,54,38862,38862,Illinois,Great Lakes,Private,Large Suburb,14,22,60,49,100,52
+Concordia University-Wisconsin,4,424,555,94,20,25,70,38440,38440,Wisconsin,Great Lakes,Private,Large Suburb,17,3,66,47,99,28
+Dominican University,3,490,540,99,20,24,60,39918,39918,Illinois,Great Lakes,Private,Large Suburb,7,40,66,58,100,59
+Eastern Michigan University,7,440,570,96,19,24,64,20756,36301,Michigan,Great Lakes,Public,Large Suburb,21,4,58,27,96,52
+Elmhurst College,8,450,550,94,21,26,72,46000,46000,Illinois,Great Lakes,Private,Large Suburb,5,13,60,68,88,35
+Franklin College,88,450,550,52,19,24,60,40035,40035,Indiana,Great Lakes,Private,Large Suburb,4,1,50,56,100,42
+Grand Valley State University,3,470,590,98,21,26,83,22432,27104,Michigan,Great Lakes,Public,Large Suburb,5,4,58,55,73,34
+Holy Cross College,46,440,550,50,19,26,72,37484,37484,Indiana,Great Lakes,Private,Large Suburb,6,9,37,44,100,30
+Indiana University-Southeast,64,420,530,48,17,23,79,19610,30688,Indiana,Great Lakes,Public,Large Suburb,6,3,58,21,57,45
+John Carroll University,48,490,590,79,22,27,83,48310,48310,Ohio,Great Lakes,Private,Large Suburb,5,4,48,71,100,26
+Kent State University at Kent,26,470,570,83,20,25,83,24926,32886,Ohio,Great Lakes,Public,Large Suburb,8,3,59,42,81,36
+Kuyper College,13,420,550,87,18,25,68,27970,27970,Michigan,Great Lakes,Private,Large Suburb,5,3,52,37,99,57
+Lake Erie College,33,430,520,80,19,23,56,40364,40364,Ohio,Great Lakes,Private,Large Suburb,10,2,49,39,100,41
+Lake Forest College,23,510,620,78,23,28,57,52000,52000,Illinois,Great Lakes,Private,Large Suburb,6,14,58,62,99,35
+Lewis University,3,440,550,96,21,26,56,39335,39335,Illinois,Great Lakes,Private,Large Suburb,8,17,56,56,99,35
+McKendree University,7,450,520,93,20,25,63,38290,38290,Illinois,Great Lakes,Private,Large Suburb,15,4,56,42,100,34
+Notre Dame College,23,398,500,80,18,22,90,38502,38502,Ohio,Great Lakes,Private,Large Suburb,21,2,55,31,99,48
+Ohio Wesleyan University,49,490,620,68,22,27,75,55690,55690,Ohio,Great Lakes,Private,Large Suburb,6,5,54,60,99,24
+Otterbein University,23,490,590,89,21,26,74,44276,44276,Ohio,Great Lakes,Private,Large Suburb,6,2,62,38,100,32
+Saint Mary's College,45,500,610,77,23,28,86,47660,47660,Indiana,Great Lakes,Private,Large Suburb,1,12,100,69,98,21
+Southern Illinois University-Edwardsville,2,470,580,98,20,25,84,23069,34013,Illinois,Great Lakes,Public,Large Suburb,14,4,53,41,61,36
+Trinity Christian College,6,450,640,94,20,25,90,36820,36820,Illinois,Great Lakes,Private,Large Suburb,9,10,65,54,96,32
+Trinity International University-Illinois,24,460,600,83,20,25,94,39680,39680,Illinois,Great Lakes,Private,Large Suburb,15,8,49,41,100,45
+University of Notre Dame,44,660,750,56,32,34,22,60117,60117,Indiana,Great Lakes,Private,Large Suburb,4,10,47,93,58,11
+University of St Francis,4,480,610,96,21,25,51,40290,40290,Illinois,Great Lakes,Private,Large Suburb,7,13,68,48,100,41
+Ursuline College,17,430,630,94,19,24,58,38344,38344,Ohio,Great Lakes,Private,Large Suburb,28,2,92,42,100,58
+Valparaiso University,41,500,590,73,23,29,80,45860,45860,Indiana,Great Lakes,Private,Large Suburb,5,7,52,66,92,26
+Walsh University,21,440,570,91,20,25,77,39390,39390,Ohio,Great Lakes,Private,Large Suburb,5,2,61,51,100,34
+Wheaton College,58,600,720,62,27,32,69,42390,42390,Illinois,Great Lakes,Private,Large Suburb,2,5,51,82,73,22
+Adelphi University,74,500,600,18,19,24,68,47110,47110,New York,Mid East,Private,Large Suburb,11,13,69,59,95,32
+Arcadia University,92,500,600,17,22,27,60,51970,51970,Pennsylvania,Mid East,Private,Large Suburb,9,5,68,57,100,36
+Bowie State University,86,410,490,14,17,20,52,20107,30674,Maryland,Mid East,Public,Large Suburb,89,3,62,25,70,52
+Bryn Athyn College of the New Church,95,460,580,11,20,25,52,29734,29734,Pennsylvania,Mid East,Private,Large Suburb,14,6,52,20,100,39
+Bryn Mawr College,79,600,710,31,27,32,40,59760,59760,Pennsylvania,Mid East,Private,Large Suburb,5,9,100,83,76,16
+Cabrini College,100,390,500,10,17,23,74,45322,45322,Pennsylvania,Mid East,Private,Large Suburb,13,5,64,43,99,44
+Cairn University-Langhorne,97,443,588,10,18,26,51,34090,34090,Pennsylvania,Mid East,Private,Large Suburb,15,5,54,52,100,43
+Caldwell College,95,410,520,19,16,25,64,43800,43800,New Jersey,Mid East,Private,Large Suburb,5,6,69,47,97,51
+Centenary College,90,410,540,6,18,23,91,43435,43435,New Jersey,Mid East,Private,Large Suburb,11,10,60,57,99,38
+Concordia College-New York,86,420,500,18,16,20,67,41175,41175,New York,Mid East,Private,Large Suburb,22,23,67,35,94,58
+Delaware Valley College,86,430,563,14,19,25,68,47467,47467,Pennsylvania,Mid East,Private,Large Suburb,6,6,63,53,99,33
+Dominican College of Blauvelt,88,410,490,11,18,23,72,39890,39890,New York,Mid East,Private,Large Suburb,13,27,66,30,99,50
+Drew University,76,490,610,20,22,27,77,59362,59362,New Jersey,Mid East,Private,Large Suburb,10,14,62,67,96,31
+Eastern University,93,480,570,7,18,24,64,42192,42192,Pennsylvania,Mid East,Private,Large Suburb,21,15,70,53,100,38
+Elizabethtown College,93,490,610,21,21,28,70,49650,49650,Pennsylvania,Mid East,Private,Large Suburb,2,3,64,75,98,23
+Farmingdale State College,93,430,510,19,19,23,53,22185,31635,New York,Mid East,Public,Large Suburb,10,15,42,35,51,33
+Felician College,90,390,480,8,15,23,88,45800,45800,New Jersey,Mid East,Private,Large Suburb,20,24,72,38,98,69
+Geneva College,85,470,590,37,20,26,68,36520,36520,Pennsylvania,Mid East,Private,Large Suburb,6,1,52,64,99,34
+Gwynedd Mercy University,97,430,520,17,16,22,66,42030,42030,Pennsylvania,Mid East,Private,Large Suburb,24,4,75,59,100,35
+Haverford College,77,660,750,40,30,33,23,61898,61898,Pennsylvania,Mid East,Private,Large Suburb,6,8,52,92,50,16
+Hofstra University,72,530,630,27,23,28,59,54289,54289,New York,Mid East,Private,Large Suburb,9,13,53,58,95,23
+Immaculata University,97,420,530,17,18,21,80,49130,49130,Pennsylvania,Mid East,Private,Large Suburb,16,5,76,44,100,27
+Iona College,83,450,550,16,20,24,92,49295,49295,New York,Mid East,Private,Large Suburb,7,17,54,59,98,31
+Keystone College,95,400,500,10,17,21,72,35500,35500,Pennsylvania,Mid East,Private,Large Suburb,5,3,59,33,98,54
+La Roche College,69,400,520,19,17,24,56,38434,38434,Pennsylvania,Mid East,Private,Large Suburb,7,1,57,40,84,45
+Lafayette College,77,570,670,39,27,31,34,59750,59750,Pennsylvania,Mid East,Private,Large Suburb,5,6,47,87,52,9
+Lincoln University of Pennsylvania,93,380,470,17,15,20,61,23239,28519,Pennsylvania,Mid East,Public,Large Suburb,83,2,59,33,90,65
+LIU Post,84,440,520,19,19,23,81,50934,50934,New York,Mid East,Private,Large Suburb,7,12,58,32,96,38
+Messiah College,93,520,620,27,23,29,66,42990,42990,Pennsylvania,Mid East,Private,Large Suburb,2,3,61,74,100,22
+Millersville University of Pennsylvania,96,460,550,14,19,24,72,21309,31433,Pennsylvania,Mid East,Public,Large Suburb,9,7,55,52,51,33
+Misericordia University,83,470,560,16,20,26,65,41940,41940,Pennsylvania,Mid East,Private,Large Suburb,1,3,68,67,100,25
+Molloy College,90,480,560,29,20,25,73,43718,43718,New York,Mid East,Private,Large Suburb,13,14,74,56,93,30
+Monmouth University,90,480,560,9,22,25,78,46152,46152,New Jersey,Mid East,Private,Large Suburb,5,9,59,54,98,25
+Mount Saint Mary College,92,450,540,24,20,24,86,42290,42290,New York,Mid East,Private,Large Suburb,7,12,70,48,99,32
+Neumann University,95,390,470,10,16,20,55,39475,39475,Pennsylvania,Mid East,Private,Large Suburb,18,3,64,42,100,49
+New York Institute of Technology,87,440,550,15,20,24,74,48552,48552,New York,Mid East,Private,Large Suburb,8,12,37,38,92,42
+Niagara University,94,460,550,40,21,25,66,42350,42350,New York,Mid East,Private,Large Suburb,6,4,58,63,98,38
+Nyack College,72,400,535,13,17,22,97,36532,36532,New York,Mid East,Private,Large Suburb,29,28,61,35,100,58
+Pennsylvania State University-Penn State Abington,90,390,510,5,18,24,78,,,Pennsylvania,Mid East,Public,Large Suburb,13,9,53,39,68,51
+Pennsylvania State University-Penn State Beaver,89,420,530,7,16,24,87,30070,36676,Pennsylvania,Mid East,Public,Large Suburb,11,4,39,37,77,41
+Pennsylvania State University-Penn State Berks,90,430,530,6,19,25,83,30840,37902,Pennsylvania,Mid East,Public,Large Suburb,9,10,44,48,55,34
+Pennsylvania State University-Penn State Brandywine,89,420,520,8,17,23,79,,,Pennsylvania,Mid East,Public,Large Suburb,14,5,43,33,77,38
+Pennsylvania State University-Penn State Greater Allegheny,86,410,520,5,18,24,80,30064,36670,Pennsylvania,Mid East,Public,Large Suburb,18,5,46,37,80,51
+Pennsylvania State University-Penn State Harrisburg,82,440,550,5,22,24,80,30840,37902,Pennsylvania,Mid East,Public,Large Suburb,10,6,43,52,60,33
+Pennsylvania State University-Penn State Lehigh Valley,93,430,550,5,19,28,85,,,Pennsylvania,Mid East,Public,Large Suburb,4,14,43,48,67,41
+Pennsylvania State University-Penn State Shenango,61,400,480,17,15,22,69,,,Pennsylvania,Mid East,Public,Large Suburb,8,1,67,24,94,68
+Pennsylvania State University-Penn State Worthington Scranton,91,420,520,2,19,22,82,,,Pennsylvania,Mid East,Public,Large Suburb,3,5,55,38,77,52
+Princeton University,86,700,800,33,31,35,7,55832,55832,New Jersey,Mid East,Private,Large Suburb,8,8,49,93,60,14
+Ramapo College of New Jersey,90,490,590,13,20,26,55,29161,37811,New Jersey,Mid East,Public,Large Suburb,5,13,56,68,45,23
+Rider University,90,460,570,24,19,25,72,51670,51670,New Jersey,Mid East,Private,Large Suburb,10,10,59,62,97,28
+Robert Morris University,75,460,550,11,21,24,81,40755,40755,Pennsylvania,Mid East,Private,Large Suburb,7,2,46,50,99,34
+Roberts Wesleyan College,89,450,590,36,20,25,73,40888,40888,New York,Mid East,Private,Large Suburb,13,6,70,58,100,44
+Rochester Institute of Technology,66,540,640,34,25,31,60,47627,47627,New York,Mid East,Private,Large Suburb,5,6,32,50,90,31
+Rosemont College,90,410,530,10,19,23,58,46305,46305,Pennsylvania,Mid East,Private,Large Suburb,37,8,67,46,100,52
+Saint John Fisher College,96,480,570,47,22,27,63,41370,41370,New York,Mid East,Private,Large Suburb,4,4,60,69,100,29
+Saint Vincent College,95,450,570,34,20,25,69,42838,42838,Pennsylvania,Mid East,Private,Large Suburb,5,3,48,68,100,31
+Seton Hall University,90,500,600,18,22,27,79,50318,50318,New Jersey,Mid East,Private,Large Suburb,13,17,59,59,97,26
+Seton Hill University,92,450,570,37,19,26,65,43900,43900,Pennsylvania,Mid East,Private,Large Suburb,8,2,63,55,100,40
+Siena College,77,500,600,38,22,27,68,47265,47265,New York,Mid East,Private,Large Suburb,4,7,53,78,98,24
+St Thomas Aquinas College,95,420,520,20,17,20,82,41120,41120,New York,Mid East,Private,Large Suburb,7,16,53,47,94,36
+State University of New York at New Paltz,92,510,610,25,23,27,44,21403,30853,New York,Mid East,Public,Large Suburb,5,11,63,63,48,29
+Stevens Institute of Technology,77,570,670,23,27,32,38,60554,60554,New Jersey,Mid East,Private,Large Suburb,2,9,28,67,97,21
+Stony Brook University,88,550,650,26,26,30,39,22127,34067,New York,Mid East,Public,Large Suburb,6,10,46,58,69,34
+SUNY at Purchase College,95,500,600,22,21,26,33,24672,34122,New York,Mid East,Public,Large Suburb,8,18,56,56,60,34
+SUNY College at Old Westbury,82,450,530,7,19,22,58,19284,28534,New York,Mid East,Public,Large Suburb,30,21,58,29,64,52
+Swarthmore College,81,680,760,37,31,34,14,60671,60671,Pennsylvania,Mid East,Private,Large Suburb,6,14,51,92,49,13
+The College of New Rochelle,15,450,520,1,22,25,57,47550,47550,New York,Mid East,Private,Large Suburb,52,13,90,22,100,89
+University at Buffalo,72,500,600,32,23,28,57,23316,35256,New York,Mid East,Public,Large Suburb,7,7,46,64,59,31
+University of Delaware,99,520,630,27,24,29,65,25612,43432,Delaware,Mid East,Public,Large Suburb,5,7,57,76,70,14
+University of Maryland-Baltimore County,92,540,640,18,24,29,63,24762,36336,Maryland,Mid East,Public,Large Suburb,16,6,45,54,65,21
+University of Pittsburgh-Greensburg,96,460,540,17,20,24,93,26714,37318,Pennsylvania,Mid East,Public,Large Suburb,5,4,49,45,76,34
+Ursinus College,62,520,640,18,24,30,66,58880,58880,Pennsylvania,Mid East,Private,Large Suburb,6,5,51,78,98,23
+Valley Forge Christian College,76,470,510,16,19,25,66,31026,31026,Pennsylvania,Mid East,Private,Large Suburb,12,10,50,39,96,48
+Vassar College,75,660,740,40,30,33,24,61320,61320,New York,Mid East,Private,Large Suburb,6,11,56,92,60,23
+Villanova University,67,590,690,33,29,31,49,58736,58736,Pennsylvania,Mid East,Private,Large Suburb,5,7,52,89,56,14
+Amherst College,63,670,760,41,30,34,14,61544,61544,Massachusetts,New England,Private,Large Suburb,12,13,50,94,57,17
+Bay Path College,96,430,550,7,18,22,58,44559,44559,Massachusetts,New England,Private,Large Suburb,12,15,100,51,100,52
+Bridgewater State University,94,440,540,4,19,24,79,22753,28893,Massachusetts,New England,Public,Large Suburb,8,5,58,46,64,29
+Bryant University,72,510,590,13,23,27,77,53598,53598,Rhode Island,New England,Private,Large Suburb,4,6,42,80,88,16
+Central Connecticut State University,97,450,540,3,19,25,64,23197,34702,Connecticut,New England,Public,Large Suburb,11,11,48,39,69,34
+College of Our Lady of the Elms,90,420,520,8,16,22,75,44612,44612,Massachusetts,New England,Private,Large Suburb,8,10,76,64,100,49
+Curry College,96,420,515,11,16,20,67,50845,50845,Massachusetts,New England,Private,Large Suburb,9,5,63,41,92,32
+Eastern Nazarene College,90,410,550,25,17,24,56,38522,38522,Massachusetts,New England,Private,Large Suburb,21,11,73,51,100,47
+Endicott College,99,480,570,26,21,25,72,45536,45536,Massachusetts,New England,Private,Large Suburb,2,4,60,68,89,17
+Gordon College,89,516,653,21,22,29,41,44860,44860,Massachusetts,New England,Private,Large Suburb,3,7,62,66,99,25
+Nichols College,83,420,500,8,19,23,80,46690,46690,Massachusetts,New England,Private,Large Suburb,5,7,41,45,91,33
+Quinnipiac University,90,490,580,29,22,27,67,55780,55780,Connecticut,New England,Private,Large Suburb,4,8,62,75,86,15
+Rhode Island College,91,410,520,7,17,22,69,20053,30751,Rhode Island,New England,Public,Large Suburb,7,12,67,31,67,43
+Salem State University,94,440,540,3,19,24,69,22084,28224,Massachusetts,New England,Public,Large Suburb,8,10,61,36,71,40
+Salve Regina University,62,510,590,11,23,26,67,49950,49950,Rhode Island,New England,Private,Large Suburb,2,6,70,63,90,26
+Stonehill College,84,510,610,19,22,28,71,52370,52370,Massachusetts,New England,Private,Large Suburb,3,4,62,84,89,17
+Tufts University,62,680,750,38,30,33,19,61000,61000,Massachusetts,New England,Private,Large Suburb,4,6,51,90,37,10
+University of Connecticut,91,550,650,27,25,30,54,27244,46192,Connecticut,New England,Public,Large Suburb,5,8,49,77,63,18
+University of Massachusetts-Amherst,92,540,640,20,24,29,63,26282,40998,Massachusetts,New England,Public,Large Suburb,4,5,49,68,75,22
+University of Massachusetts-Lowell,96,500,600,11,22,28,64,24961,39010,Massachusetts,New England,Public,Large Suburb,6,9,39,43,76,30
+University of New Haven,90,460,550,24,20,25,74,50210,50210,Connecticut,New England,Private,Large Suburb,8,8,49,51,95,28
+University of Rhode Island,92,480,580,17,22,26,79,26882,42448,Rhode Island,New England,Public,Large Suburb,5,9,54,53,79,26
+Wellesley College,77,660,760,43,29,33,29,59092,59092,Massachusetts,New England,Private,Large Suburb,6,10,98,88,59,19
+Westfield State University,92,450,540,7,17,22,75,21296,27376,Massachusetts,New England,Public,Large Suburb,4,7,52,53,45,32
+Bethel University,8,490,640,95,22,28,95,44300,44300,Minnesota,Plains,Private,Large Suburb,6,2,63,68,100,25
+Fontbonne University,8,490,600,89,21,25,65,33896,33896,Missouri,Plains,Private,Large Suburb,17,2,67,21,91,24
+Maryville University of Saint Louis,7,470,610,92,23,27,76,41918,41918,Missouri,Plains,Private,Large Suburb,8,2,71,61,98,27
+MidAmerica Nazarene University,7,420,540,93,19,21,72,33687,33687,Kansas,Plains,Private,Large Suburb,11,5,61,50,97,43
+Missouri Baptist University,11,410,500,89,19,24,61,33313,33313,Missouri,Plains,Private,Large Suburb,5,2,59,37,99,44
+University of Northwestern-St Paul,6,498,640,98,22,27,69,40120,40120,Minnesota,Plains,Private,Large Suburb,3,1,60,61,99,38
+Washington University in St Louis,55,700,760,61,32,34,16,61808,61808,Missouri,Plains,Private,Large Suburb,6,5,51,92,48,5
+Webster University,15,500,650,85,21,27,58,41918,41918,Missouri,Plains,Private,Large Suburb,15,4,57,54,94,37
+William Jewell College,9,498,670,94,22,28,58,43820,43820,Missouri,Plains,Private,Large Suburb,6,4,57,56,100,30
+Colorado School of Mines,42,570,670,88,27,31,37,30603,46533,Colorado,Rocky Mountains,Public,Large Suburb,1,8,27,59,72,16
+Barry University,77,420,520,40,17,21,47,45100,45100,Florida,Southeast,Private,Large Suburb,32,29,62,31,96,63
+Clayton  State University,71,440,520,44,18,21,48,18830,28592,Georgia,Southeast,Public,Large Suburb,62,1,70,20,82,70
+Clemson University,64,560,660,36,26,31,58,28502,45936,South Carolina,Southeast,Public,Large Suburb,6,3,46,74,89,16
+Covenant College,72,530,670,58,23,28,57,40330,40330,Georgia,Southeast,Private,Large Suburb,3,2,56,54,98,32
+Davidson College,79,630,730,52,29,33,26,57458,57458,North Carolina,Southeast,Private,Large Suburb,7,6,50,91,55,13
+Emory University,76,620,710,45,29,32,26,59908,59908,Georgia,Southeast,Private,Large Suburb,9,6,57,88,47,19
+Florida College,47,470,590,69,20,26,59,26750,26750,Florida,Southeast,Private,Large Suburb,6,6,50,9,85,35
+Florida Gulf Coast University,83,470,550,67,20,24,66,19102,38424,Florida,Southeast,Public,Large Suburb,7,19,56,35,73,35
+Florida International University,70,540,620,30,24,27,43,22968,35367,Florida,Southeast,Public,Large Suburb,12,67,55,38,87,53
+Furman University,65,550,670,53,25,30,64,57276,57276,South Carolina,Southeast,Private,Large Suburb,5,3,57,83,83,14
+George Mason University,75,520,620,13,24,28,62,25335,44019,Virginia,Southeast,Public,Large Suburb,10,11,52,57,44,24
+Kennesaw State University,67,500,590,45,21,24,57,24659,34739,Georgia,Southeast,Public,Large Suburb,18,7,58,31,81,36
+Mars Hill University,74,410,510,49,17,23,64,38224,38224,North Carolina,Southeast,Private,Large Suburb,19,3,50,34,99,58
+Maryville College,28,450,550,84,21,26,73,44472,44472,Tennessee,Southeast,Private,Large Suburb,7,3,56,53,100,48
+Mississippi College,14,458,593,94,21,27,67,27611,27611,Mississippi,Southeast,Private,Large Suburb,22,2,59,46,99,31
+Montreat College,73,400,550,47,17,23,54,35690,35690,North Carolina,Southeast,Private,Large Suburb,19,3,57,34,100,43
+Northern Kentucky University,15,440,560,96,19,25,47,19186,27274,Kentucky,Southeast,Public,Large Suburb,7,2,55,28,86,38
+Nova Southeastern University,73,470,590,50,21,27,57,43580,43580,Florida,Southeast,Private,Large Suburb,21,32,71,34,97,42
+Oglethorpe University,76,520,630,52,22,27,56,46430,46430,Georgia,Southeast,Private,Large Suburb,18,10,57,59,97,38
+Randolph-Macon College,84,490,590,21,21,26,64,47740,47740,Virginia,Southeast,Private,Large Suburb,10,4,53,60,100,26
+Rollins College,68,550,640,53,24,29,59,59438,59438,Florida,Southeast,Private,Large Suburb,6,16,60,65,85,17
+Samford University,36,500,630,84,23,28,77,40900,40900,Alabama,Southeast,Private,Large Suburb,7,7,65,61,98,14
+Southern Adventist University,46,470,600,77,20,25,38,30874,30874,Tennessee,Southeast,Private,Large Suburb,11,20,56,35,97,38
+Southern Wesleyan University,72,400,540,34,15,22,94,33750,33750,South Carolina,Southeast,Private,Large Suburb,29,3,61,38,96,57
+St Thomas University,56,410,510,42,16,21,46,41649,41649,Florida,Southeast,Private,Large Suburb,24,43,55,34,100,60
+Thomas More College,24,430,520,92,20,25,88,38621,38621,Kentucky,Southeast,Private,Large Suburb,6,2,52,51,100,41
+University of Central Florida,64,540,630,36,23,28,49,20839,36938,Florida,Southeast,Public,Large Suburb,11,22,55,55,93,31
+University of Miami,49,600,700,41,28,32,40,60906,60906,Florida,Southeast,Private,Large Suburb,7,21,51,78,74,18
+University of Montevallo,3,495,613,96,20,26,87,23340,33030,Alabama,Southeast,Public,Large Suburb,14,2,66,36,80,38
+University of South Carolina-Aiken,59,430,540,49,18,23,51,21701,30733,South Carolina,Southeast,Public,Large Suburb,26,4,63,34,93,49
+University of South Florida-Sarasota-Manatee,79,502,580,59,22,25,35,,,Florida,Southeast,Public,Large Suburb,7,13,59,#DIV/0!,,
+Virginia State University,88,370,450,23,15,18,95,20767,30175,Virginia,Southeast,Public,Large Suburb,85,2,60,38,92,67
+Warren Wilson College,69,530,660,44,23,27,70,43000,43000,North Carolina,Southeast,Private,Large Suburb,4,4,61,47,84,39
+Wingate University,86,440,550,47,19,24,79,37740,37740,North Carolina,Southeast,Private,Large Suburb,15,2,59,50,95,35
+Southern Methodist University,60,600,690,62,27,31,51,61355,61355,Texas,Southwest,Private,Large Suburb,6,12,51,74,73,13
+Southwestern Christian University,18,420,575,82,17,23,88,26470,26470,Oklahoma,Southwest,Private,Large Suburb,27,7,55,45,86,67
+Southwestern University,83,520,640,54,22,29,52,48080,48080,Texas,Southwest,Private,Large Suburb,5,19,57,68,99,27
+California Institute of Technology,88,720,800,43,33,35,11,58755,58755,California,Far West,Private,Midsize City,2,10,37,88,54,10
+California Lutheran University,84,500,590,42,22,26,48,52577,52577,California,Far West,Private,Midsize City,4,25,55,67,98,23
+California Maritime Academy,86,470,580,46,21,26,75,21102,32262,California,Far West,Public,Midsize City,2,16,14,53,43,26
+California State University-East Bay,91,400,500,32,16,22,69,22312,33472,California,Far West,Public,Midsize City,11,25,61,26,62,54
+California State University-San Bernardino,95,390,490,37,16,20,58,20377,31537,California,Far West,Public,Midsize City,7,55,61,26,73,67
+Chapman University,78,550,640,51,24,29,45,59459,59459,California,Far West,Private,Midsize City,2,14,59,69,81,18
+Concordia University-Irvine,83,453,550,38,20,25,91,43550,43550,California,Far West,Private,Midsize City,3,18,62,59,100,27
+Corban University,89,480,590,41,20,26,32,40407,40407,Oregon,Far West,Private,Midsize City,1,4,61,50,100,39
+Gonzaga University,80,540,640,53,25,29,67,48530,48530,Washington,Far West,Private,Midsize City,1,8,54,78,99,15
+Northwest Christian University,87,450,535,35,18,23,70,37470,37470,Oregon,Far West,Private,Midsize City,2,8,64,43,100,49
+Santa Clara University,79,590,680,48,27,31,51,59589,59589,California,Far West,Private,Midsize City,3,17,50,81,82,12
+University of California-Berkeley,91,590,720,40,27,33,18,33319,56197,California,Far West,Public,Midsize City,2,13,52,84,60,27
+University of California-Irvine,95,460,600,41,21,27,42,30504,53382,California,Far West,Public,Midsize City,2,22,54,79,71,48
+University of Nevada-Las Vegas,77,440,550,34,19,24,85,22195,36105,Nevada,Far West,Public,Midsize City,8,23,56,31,85,40
+University of Nevada-Reno,82,480,590,56,21,26,84,22600,36510,Nevada,Far West,Public,Midsize City,3,16,53,36,88,31
+University of Oregon,75,490,600,16,22,27,74,24352,44377,Oregon,Far West,Public,Midsize City,2,8,52,58,53,23
+University of Puget Sound,74,570,670,48,25,30,85,55948,55948,Washington,Far West,Private,Midsize City,1,7,57,74,95,16
+University of Washington-Tacoma Campus,93,410,540,18,17,23,85,27649,47223,Washington,Far West,Public,Midsize City,7,9,53,42,72,48
+Vanguard University of Southern California,82,430,550,29,18,28,70,43076,43076,California,Far West,Private,Midsize City,4,34,68,50,98,39
+Willamette University,68,540,660,32,24,29,58,54813,54813,Oregon,Far West,Private,Midsize City,2,10,56,76,98,19
+Bradley University,7,500,640,97,23,28,67,42090,42090,Illinois,Great Lakes,Private,Midsize City,6,6,52,68,98,23
+Calvin College,30,518,650,81,23,29,70,41195,41195,Michigan,Great Lakes,Private,Midsize City,3,3,55,67,99,24
+Cornerstone University,12,465,605,92,21,26,68,35922,35922,Michigan,Great Lakes,Private,Midsize City,11,4,59,40,98,40
+Indiana University-South Bend,83,430,530,16,18,23,70,19080,30042,Indiana,Great Lakes,Public,Midsize City,6,7,61,17,66,48
+Judson University,11,460,540,88,18,27,71,40020,40020,Illinois,Great Lakes,Private,Midsize City,6,10,56,43,99,24
+Kettering University,17,490,630,92,24,29,62,51277,51277,Michigan,Great Lakes,Private,Midsize City,3,3,18,41,100,30
+Rockford University,6,363,553,92,19,25,41,38853,38853,Illinois,Great Lakes,Private,Midsize City,7,6,63,34,100,49
+University of Akron Main Campus,13,450,590,90,18,25,96,23956,32320,Ohio,Great Lakes,Public,Midsize City,14,2,48,30,77,47
+University of Dayton,35,490,600,81,24,29,53,49540,49540,Ohio,Great Lakes,Private,Midsize City,3,3,48,71,97,12
+University of Evansville,59,490,600,65,23,29,84,44370,44370,Indiana,Great Lakes,Private,Midsize City,3,3,58,59,96,26
+University of Illinois at Springfield,3,465,623,97,20,27,60,22378,29698,Illinois,Great Lakes,Public,Midsize City,13,6,51,37,90,43
+University of Michigan-Ann Arbor,34,620,720,83,28,32,33,26240,53490,Michigan,Great Lakes,Public,Midsize City,4,4,49,85,47,14
+University of Michigan-Flint,1,503,675,87,18,24,78,23026,31908,Michigan,Great Lakes,Public,Midsize City,12,4,60,25,52,38
+University of Wisconsin-Madison,22,530,650,85,26,30,68,23931,40181,Wisconsin,Great Lakes,Public,Midsize City,2,5,51,72,52,13
+Cedar Crest College,92,430,520,15,17,24,59,45021,45021,Pennsylvania,Mid East,Private,Midsize City,9,12,93,55,100,51
+Gannon University,82,460,560,38,20,26,80,41820,41820,Pennsylvania,Mid East,Private,Midsize City,4,2,57,58,97,36
+Le Moyne College,93,480,570,45,21,26,62,44900,44900,New York,Mid East,Private,Midsize City,6,6,59,70,100,34
+Mercyhurst University,75,470,580,40,21,26,75,44838,44838,Pennsylvania,Mid East,Private,Midsize City,4,2,56,58,100,30
+Muhlenberg College,70,570,670,23,25,31,46,55370,55370,Pennsylvania,Mid East,Private,Midsize City,3,5,59,84,88,9
+SUNY College of Environmental Science and Forestry,89,520,620,48,23,27,51,24093,33543,New York,Mid East,Public,Midsize City,1,2,43,64,84,23
+Syracuse University,81,500,620,33,23,28,49,57450,57450,New York,Mid East,Private,Midsize City,9,11,55,76,70,26
+University of Rochester,67,600,700,35,29,32,36,61340,61340,New York,Mid East,Private,Midsize City,5,6,52,82,88,18
+American International College,90,390,490,8,16,21,68,44900,44900,Massachusetts,New England,Private,Midsize City,25,8,58,38,100,51
+Becker College,89,450,550,12,19,24,63,47160,47160,Massachusetts,New England,Private,Midsize City,8,9,57,21,100,36
+Brown University,79,660,760,38,29,34,9,60460,60460,Rhode Island,New England,Private,Midsize City,6,11,52,91,47,17
+Harvard University,86,700,800,38,32,35,6,59950,59950,Massachusetts,New England,Private,Midsize City,6,9,50,93,58,15
+Lesley University,92,490,600,17,21,26,67,49765,49765,Massachusetts,New England,Private,Midsize City,5,7,77,41,96,26
+Massachusetts Institute of Technology,85,680,770,40,33,35,8,59020,59020,Massachusetts,New England,Private,Midsize City,5,16,45,89,56,16
+Providence College,75,520,620,28,23,28,60,57625,57625,Rhode Island,New England,Private,Midsize City,4,7,56,84,78,15
+Southern Connecticut State University,97,410,510,8,17,22,75,22945,34411,Connecticut,New England,Public,Midsize City,15,11,61,36,57,33
+Springfield College,93,450,550,18,20,25,70,46480,46480,Massachusetts,New England,Private,Midsize City,4,5,48,65,98,24
+Trinity College,48,570,680,30,25,29,32,62310,62310,Connecticut,New England,Private,Midsize City,6,7,49,84,38,10
+University of Bridgeport,91,410,500,9,18,22,64,50043,50043,Connecticut,New England,Private,Midsize City,35,18,66,24,93,60
+University of Hartford,74,470,570,15,20,26,62,48170,48170,Connecticut,New England,Private,Midsize City,15,9,50,57,98,32
+Western New England University,92,470,570,20,22,26,82,48890,48890,Massachusetts,New England,Private,Midsize City,5,8,40,57,96,29
+Worcester State University,89,450,550,9,20,24,61,22718,28798,Massachusetts,New England,Public,Midsize City,6,7,60,43,69,33
+Yale University,84,700,800,35,32,35,7,61620,61620,Connecticut,New England,Private,Midsize City,7,10,49,95,51,13
+Coe College,9,493,693,94,23,28,62,47260,47260,Iowa,Plains,Private,Midsize City,4,5,54,65,99,33
+Drake University,10,530,640,96,25,30,66,44349,44349,Iowa,Plains,Private,Midsize City,3,3,56,67,99,16
+Drury University,11,525,650,86,22,28,81,34719,34719,Missouri,Plains,Private,Midsize City,4,4,61,46,68,63
+Evangel University,28,440,600,80,19,26,64,32183,32183,Missouri,Plains,Private,Midsize City,4,5,56,46,91,42
+Grand View University,8,380,450,94,19,23,95,33616,33616,Iowa,Plains,Private,Midsize City,8,3,58,40,100,42
+Missouri State University-Springfield,5,470,600,95,21,26,85,19251,25731,Missouri,Plains,Public,Midsize City,4,3,57,44,71,36
+North Dakota State University-Main Campus,4,490,625,98,21,26,84,19460,30042,North Dakota,Plains,Public,Midsize City,3,1,44,42,58,21
+Stephens College,16,440,630,88,19,26,68,42424,42424,Missouri,Plains,Private,Midsize City,18,2,99,47,100,55
+University of Missouri-Columbia,8,520,640,94,23,28,79,22943,37292,Missouri,Plains,Public,Midsize City,8,3,52,61,72,23
+University of Sioux Falls,3,400,460,95,20,26,97,35780,35780,South Dakota,Plains,Private,Midsize City,4,3,59,43,100,29
+Boise State University,76,460,570,56,20,26,78,20944,33544,Idaho,Rocky Mountains,Public,Midsize City,1,9,54,26,71,35
+Brigham Young University-Provo,32,570,680,93,26,31,49,17496,17496,Utah,Rocky Mountains,Private,Midsize City,0,6,46,55,49,17
+Colorado State University-Fort Collins,28,510,620,92,22,27,77,23203,39056,Colorado,Rocky Mountains,Public,Midsize City,2,9,51,53,46,24
+Colorado State University-Pueblo,12,420,510,89,18,23,94,20938,31260,Colorado,Rocky Mountains,Public,Midsize City,7,29,56,26,73,50
+Rocky Mountain College,45,450,560,70,19,25,67,35488,35488,Montana,Rocky Mountains,Private,Midsize City,2,4,48,32,100,35
+University of Utah,19,483,620,85,21,27,82,21920,38199,Utah,Rocky Mountains,Public,Midsize City,1,9,45,44,51,24
+Westminster College,37,500,610,78,22,28,75,42108,42108,Utah,Rocky Mountains,Private,Midsize City,1,10,55,52,95,27
+Alabama A & M University,15,370,450,88,15,19,90,21849,27441,Alabama,Southeast,Public,Midsize City,95,1,51,21,89,81
+Alabama State University,18,380,480,87,15,19,51,18286,25222,Alabama,Southeast,Public,Midsize City,93,1,59,18,87,76
+Armstrong Atlantic State University,80,460,550,36,19,23,70,21373,31135,Georgia,Southeast,Public,Midsize City,24,7,67,23,76,46
+Austin Peay State University,3,430,540,89,19,24,86,21513,36009,Tennessee,Southeast,Public,Midsize City,19,6,60,27,92,56
+Belhaven University,19,452,620,57,19,25,48,34472,34472,Mississippi,Southeast,Private,Midsize City,40,5,62,33,98,44
+Birmingham Southern College,32,520,630,82,23,29,64,45470,45470,Alabama,Southeast,Private,Midsize City,9,3,46,58,97,21
+Centenary College of Louisiana,26,480,585,91,22,28,66,44600,44600,Louisiana,Southeast,Private,Midsize City,15,6,56,55,100,37
+Christopher Newport University,75,540,630,27,23,28,59,25808,35708,Virginia,Southeast,Public,Midsize City,8,5,57,60,57,15
+Citadel Military College of South Carolina,64,480,590,36,21,25,80,25442,44243,South Carolina,Southeast,Public,Midsize City,9,6,9,66,69,21
+Clearwater Christian College,52,460,580,67,19,25,70,30125,30125,Florida,Southeast,Private,Midsize City,4,12,48,50,100,51
+College of Charleston,62,530,630,40,23,28,70,26656,43120,South Carolina,Southeast,Public,Midsize City,6,4,62,59,62,20
+Columbia College,77,470,570,70,20,24,65,39316,39316,South Carolina,Southeast,Private,Midsize City,38,6,95,38,98,51
+Columbia International University,78,480,620,47,19,25,63,32130,32130,South Carolina,Southeast,Private,Midsize City,11,4,46,60,93,42
+Columbus State University,69,440,550,44,19,23,55,19620,29662,Georgia,Southeast,Public,Midsize City,36,5,59,22,82,52
+Duke University,79,670,760,45,30,34,13,61748,61748,North Carolina,Southeast,Private,Midsize City,10,6,50,91,48,14
+Eckerd College,71,510,620,49,23,28,71,51796,51796,Florida,Southeast,Private,Midsize City,6,8,61,63,96,19
+Fayetteville State University,89,380,450,7,17,19,55,14854,25650,North Carolina,Southeast,Public,Midsize City,66,6,69,24,94,78
+Florida Agricultural and Mechanical University,27,430,520,73,18,22,45,19545,31485,Florida,Southeast,Public,Midsize City,94,1,61,27,86,68
+Florida State University,44,560,640,56,25,29,57,21543,36709,Florida,Southeast,Public,Midsize City,9,17,55,69,93,27
+Hampton University,55,460,550,42,18,23,36,33854,33854,Virginia,Southeast,Private,Midsize City,92,1,64,61,71,40
+High Point University,85,490,580,42,21,26,64,43900,43900,North Carolina,Southeast,Private,Midsize City,6,3,59,61,68,11
+Huntingdon College,16,420,500,93,19,24,63,33885,33885,Alabama,Southeast,Private,Midsize City,19,2,50,38,100,48
+Louisiana State University-Shreveport,2,440,510,98,20,24,83,,,Louisiana,Southeast,Public,Midsize City,20,4,59,25,90,35
+Marymount University,88,470,570,32,20,24,83,41160,41160,Virginia,Southeast,Private,Midsize City,15,15,68,53,95,29
+Methodist University,77,420,520,9,18,23,61,47311,47311,North Carolina,Southeast,Private,Midsize City,20,7,46,34,98,41
+Middle Tennessee State University,7,450,580,93,19,24,70,20818,36274,Tennessee,Southeast,Public,Midsize City,20,4,53,33,94,51
+Millsaps College,21,498,630,87,23,28,47,46680,46680,Mississippi,Southeast,Private,Midsize City,10,3,48,62,100,23
+Norfolk State University,89,400,480,15,16,20,65,20536,34006,Virginia,Southeast,Public,Midsize City,84,3,64,30,84,66
+North Carolina Central University,90,390,460,9,16,19,50,18547,29120,North Carolina,Southeast,Public,Midsize City,83,3,67,29,89,76
+Oakwood University,47,410,513,58,17,22,34,36295,36295,Alabama,Southeast,Private,Midsize City,85,2,57,29,91,53
+Old Dominion University,81,460,560,25,18,23,77,22267,37927,Virginia,Southeast,Public,Midsize City,26,7,54,40,82,37
+Paine College,52,340,430,56,14,18,44,23850,23850,Georgia,Southeast,Private,Midsize City,91,2,49,14,97,84
+Palm Beach Atlantic University,75,470,590,64,20,26,84,39302,39302,Florida,Southeast,Private,Midsize City,13,13,63,45,100,35
+Salem College,73,510,620,50,22,27,58,41600,41600,North Carolina,Southeast,Private,Midsize City,23,7,95,63,99,51
+Savannah State University,70,390,460,57,16,19,83,16174,25935,Georgia,Southeast,Public,Midsize City,87,2,55,20,88,80
+Spring Hill College,20,480,600,92,21,27,46,46170,46170,Alabama,Southeast,Private,Midsize City,16,9,60,53,100,33
+The University of Tennessee-Chattanooga,6,470,590,97,21,25,78,20530,35736,Tennessee,Southeast,Public,Midsize City,11,3,55,28,94,35
+The University of Tennessee-Knoxville,18,520,640,94,24,29,72,27450,45940,Tennessee,Southeast,Public,Midsize City,7,3,49,56,92,30
+Tougaloo College,52,365,537,99,15,21,36,20757,20757,Mississippi,Southeast,Private,Midsize City,98,0,65,41,72,70
+University of Alabama at Birmingham,6,520,640,93,22,28,87,22495,31687,Alabama,Southeast,Public,Midsize City,26,3,58,43,79,36
+University of Alabama in Huntsville,34,510,640,94,23,29,81,23466,35780,Alabama,Southeast,Public,Midsize City,13,3,44,34,77,31
+University of Arkansas at Little Rock,3,360,480,82,20,27,53,23191,32968,Arkansas,Southeast,Public,Midsize City,23,6,59,15,92,53
+University of Florida,63,580,670,37,26,31,47,19103,41381,Florida,Southeast,Public,Midsize City,7,19,55,78,95,29
+University of Georgia,86,560,660,60,26,30,56,22064,40274,Georgia,Southeast,Public,Midsize City,7,5,57,73,92,21
+University of North Carolina Wilmington,78,540,620,37,22,26,54,20601,32738,North Carolina,Southeast,Public,Midsize City,5,6,60,64,47,21
+University of Richmond,67,590,690,33,28,31,31,57630,57630,Virginia,Southeast,Private,Midsize City,7,7,53,84,57,16
+University of South Alabama,8,440,550,92,20,26,86,19980,26628,Alabama,Southeast,Public,Midsize City,22,2,57,25,80,43
+University of South Carolina-Columbia,63,540,640,61,24,29,61,24804,42516,South Carolina,Southeast,Public,Midsize City,10,4,54,66,86,19
+University of South Florida-St Petersburg,51,490,590,48,21,25,44,20170,31086,Florida,Southeast,Public,Midsize City,7,15,61,34,91,44
+Virginia Commonwealth University,92,500,610,23,21,26,69,28297,45768,Virginia,Southeast,Public,Midsize City,18,7,57,46,62,29
+Virginia Union University,84,340,420,26,13,17,58,27932,27932,Virginia,Southeast,Private,Midsize City,95,1,55,30,93,73
+Winston-Salem State University,93,410,470,25,16,19,56,16708,25521,North Carolina,Southeast,Public,Midsize City,72,2,71,34,91,74
+Abilene Christian University,50,470,580,50,21,27,49,41800,41800,Texas,Southwest,Private,Midsize City,7,12,57,49,99,23
+Arizona State University-Tempe,64,500,620,51,22,28,80,23837,37630,Arizona,Southwest,Public,Midsize City,4,18,44,51,87,29
+Baylor University,49,550,660,51,24,29,57,53886,53886,Texas,Southwest,Private,Midsize City,7,14,58,68,95,18
+Hardin-Simmons University,64,450,550,68,20,25,38,33626,33626,Texas,Southwest,Private,Midsize City,6,14,52,45,97,34
+Lamar University,87,430,530,36,18,23,77,21769,30265,Texas,Southwest,Public,Midsize City,30,11,58,25,72,53
+Lubbock Christian University,33,440,560,67,19,24,95,30966,30966,Texas,Southwest,Private,Midsize City,6,21,61,37,96,37
+McMurry University,71,420,540,55,18,24,59,36421,36421,Texas,Southwest,Private,Midsize City,16,21,49,33,99,50
+Midwestern State University,71,440,540,59,19,23,72,17904,19854,Texas,Southwest,Public,Midsize City,15,15,58,33,73,40
+Texas A & M International University,74,390,491,45,16,20,48,17366,25862,Texas,Southwest,Public,Midsize City,1,94,58,34,96,78
+Texas Tech University,60,490,590,40,22,27,66,21601,30097,Texas,Southwest,Public,Midsize City,6,21,44,49,54,24
+Texas Woman's University,78,410,530,45,17,23,86,18259,28885,Texas,Southwest,Public,Midsize City,20,24,89,33,88,59
+The University of Texas at Dallas,81,550,670,45,25,31,59,24784,39958,Texas,Southwest,Public,Midsize City,6,17,43,56,79,26
+The University of Texas of the Permian Basin,61,450,550,47,19,23,84,16749,25173,Texas,Southwest,Public,Midsize City,5,43,59,21,88,26
+University of Dallas,76,550,680,52,24,30,90,48710,48710,Texas,Southwest,Private,Midsize City,1,19,54,62,100,23
+University of North Texas,80,490,600,40,21,26,60,20232,28728,Texas,Southwest,Public,Midsize City,14,21,53,40,68,39
+California State University-Channel Islands,90,430,530,24,17,23,64,25007,36167,California,Far West,Public,Midsize Suburb,2,41,64,40,54,45
+California State University-Monterey Bay,93,430,540,40,18,24,44,19210,30370,California,Far West,Public,Midsize Suburb,6,40,62,27,60,49
+Saint Martin's University,88,470,580,27,19,25,88,44038,44038,Washington,Far West,Private,Midsize Suburb,6,11,51,43,95,39
+San Diego State University-Imperial Valley Campus,86,360,480,54,16,21,61,,,California,Far West,Public,Midsize Suburb,0,87,70,53,,
+The Evergreen State College,75,500,630,30,20,27,97,22641,34728,Washington,Far West,Public,Midsize Suburb,5,7,53,51,80,32
+University of California-Santa Barbara,93,530,650,47,24,29,44,34051,56929,California,Far West,Public,Midsize Suburb,2,25,52,76,63,41
+Westmont College,79,520,650,50,24,29,70,53670,53670,California,Far West,Private,Midsize Suburb,1,13,61,75,99,21
+Carthage College,3,480,570,97,21,27,70,48050,48050,Wisconsin,Great Lakes,Private,Midsize Suburb,5,4,54,61,100,28
+Purdue University-Main Campus,73,520,630,54,24,30,60,23242,42044,Indiana,Great Lakes,Public,Midsize Suburb,3,4,42,59,47,19
+University of Southern Indiana,65,440,550,50,19,24,69,19568,28423,Indiana,Great Lakes,Public,Midsize Suburb,4,1,59,28,63,36
+Pennsylvania State University-Penn State Erie-Behrend College,81,460,560,12,19,25,84,30840,37902,Pennsylvania,Mid East,Public,Midsize Suburb,4,3,35,60,61,33
+Pennsylvania State University-Penn State York,88,410,540,4,21,25,84,,,Pennsylvania,Mid East,Public,Midsize Suburb,7,6,44,41,66,36
+SUNY at Binghamton,93,590,675,33,27,30,43,22832,33152,New York,Mid East,Public,Midsize Suburb,5,10,47,76,43,24
+SUNY Institute of Technology at Utica-Rome,93,450,550,22,22,26,48,23065,32515,New York,Mid East,Public,Midsize Suburb,7,5,41,42,83,45
+The Richard Stockton College of New Jersey,91,480,570,16,20,24,62,27929,34322,New Jersey,Mid East,Public,Midsize Suburb,6,10,59,56,59,32
+York College Pennsylvania,95,470,560,18,20,25,74,29790,29790,Pennsylvania,Mid East,Private,Midsize Suburb,5,5,55,49,98,24
+Fitchburg State University,96,440,540,9,18,22,72,20690,26770,Massachusetts,New England,Public,Midsize Suburb,5,9,56,38,68,38
+Massachusetts Maritime Academy,96,460,550,18,20,24,77,22073,36979,Massachusetts,New England,Public,Midsize Suburb,2,1,12,60,53,19
+Saint Anselm College,60,540,610,13,23,27,74,50394,50394,New Hampshire,New England,Private,Midsize Suburb,2,3,59,73,97,14
+Saint Michael's College,63,530,650,20,23,28,75,50920,50920,Vermont,New England,Private,Midsize Suburb,2,4,55,73,98,22
+University of Massachusetts-Dartmouth,98,470,570,9,21,25,72,25355,37830,Massachusetts,New England,Public,Midsize Suburb,11,7,48,41,75,40
+University of New England,94,470,570,21,21,26,86,50295,50295,Maine,New England,Private,Midsize Suburb,2,1,71,55,100,27
+College of Saint Benedict,7,470,570,95,23,28,76,49970,49970,Minnesota,Plains,Private,Midsize Suburb,2,5,100,79,100,29
+Concordia College at Moorhead,6,510,650,96,22,28,80,42964,42964,Minnesota,Plains,Private,Midsize Suburb,2,2,62,68,100,26
+Minnesota State University-Moorhead,5,450,560,90,20,25,89,19000,25898,Minnesota,Plains,Public,Midsize Suburb,3,3,60,36,62,31
+Northwest Nazarene University,78,460,590,66,21,28,62,36550,36550,Idaho,Rocky Mountains,Private,Midsize Suburb,2,7,56,42,100,40
+The College of Idaho,86,460,570,68,21,27,91,35456,35456,Idaho,Rocky Mountains,Private,Midsize Suburb,1,15,55,61,99,42
+Belmont Abbey College,66,428,540,37,18,24,68,32564,32564,North Carolina,Southeast,Private,Midsize Suburb,27,2,58,36,99,36
+Elon University,78,560,660,22,23,26,54,43546,43546,North Carolina,Southeast,Private,Midsize Suburb,6,5,59,80,56,7
+Hollins University,81,500,640,47,21,27,69,48180,48180,Virginia,Southeast,Private,Midsize Suburb,10,6,99,58,100,34
+Livingstone College,58,320,410,35,13,16,71,25920,25920,North Carolina,Southeast,Private,Midsize Suburb,91,1,44,16,89,86
+Milligan College,27,480,583,85,22,26,68,38266,38266,Tennessee,Southeast,Private,Midsize Suburb,5,4,62,52,98,32
+Roanoke College,83,490,600,35,21,26,73,51371,51371,Virginia,Southeast,Private,Midsize Suburb,5,3,59,62,98,24
+Stetson University,50,540,640,36,23,28,59,53712,53712,Florida,Southeast,Private,Midsize Suburb,8,14,57,61,100,34
+Sweet Briar College,81,480,620,41,21,27,84,49105,49105,Virginia,Southeast,Private,Midsize Suburb,9,7,98,56,100,38
+University of Mary Washington,94,510,620,30,22,26,81,24076,36946,Virginia,Southeast,Public,Midsize Suburb,6,7,64,71,37,14
+University of South Carolina-Upstate,59,440,530,52,19,23,64,22804,32832,South Carolina,Southeast,Public,Midsize Suburb,27,4,65,34,94,50
+West Virginia State University,9,405,495,83,18,22,45,18141,26073,West Virginia,Southeast,Public,Midsize Suburb,10,1,55,11,76,53
+New Mexico State University-Main Campus,23,410,540,84,18,24,85,18255,31679,New Mexico,Southwest,Public,Midsize Suburb,3,52,53,32,95,46
+University of Oklahoma-Norman Campus,35,500,630,86,23,29,80,23441,35630,Oklahoma,Southwest,Public,Midsize Suburb,5,9,49,53,65,23
+Houghton College,83,490,630,38,21,28,91,39590,39590,New York,Mid East,Private,Remote Rural,3,2,64,70,100,44
+University of Maine at Fort Kent,91,400,500,2,18,27,63,18795,28755,Maine,New England,Public,Remote Rural,2,1,71,40,88,52
+University of Maine at Machias,87,410,530,3,18,25,85,18968,30848,Maine,New England,Public,Remote Rural,3,3,70,23,97,60
+Vermont Technical College,70,410,520,20,16,21,83,24282,34794,Vermont,New England,Public,Remote Rural,1,1,42,34,77,50
+Culver-Stockton College,9,450,540,93,18,23,59,34952,34952,Missouri,Plains,Private,Remote Rural,12,3,50,43,100,57
+Graceland University-Lamoni,25,390,520,75,18,24,50,35380,35380,Iowa,Plains,Private,Remote Rural,9,7,57,40,100,45
+Alcorn State University,5,400,460,95,16,19,83,20984,20984,Mississippi,Southeast,Public,Remote Rural,93,1,65,27,74,67
+Alice Lloyd College,2,470,500,98,18,24,45,21800,21800,Kentucky,Southeast,Private,Remote Rural,1,1,54,28,100,65
+Judson College,10,550,640,94,19,24,74,28840,28840,Alabama,Southeast,Private,Remote Rural,14,1,95,40,100,64
+Humboldt State University,93,450,580,37,18,24,80,22556,33716,California,Far West,Public,Remote Town,4,27,53,27,61,46
+Oregon Institute of Technology,84,440,550,33,20,25,71,21163,34803,Oregon,Far West,Public,Remote Town,1,7,48,33,70,40
+University of Hawaii at Hilo,89,410,540,8,19,23,75,17326,29086,Hawaii,Far West,Public,Remote Town,1,11,60,25,70,45
+Lake Superior State University,5,460,570,91,20,25,92,21788,26708,Michigan,Great Lakes,Public,Remote Town,2,2,50,32,87,45
+Michigan Technological University,9,520,650,95,24,29,77,26375,41255,Michigan,Great Lakes,Public,Remote Town,1,2,25,49,94,28
+Monmouth College,1,490,540,95,20,25,64,42050,42050,Illinois,Great Lakes,Private,Remote Town,13,11,55,58,100,52
+Northland College,16,485,630,91,21,27,59,40950,40950,Wisconsin,Great Lakes,Private,Remote Town,1,5,52,56,100,47
+Quincy University,3,410,500,97,20,25,89,39114,39114,Illinois,Great Lakes,Private,Remote Town,10,4,56,45,100,50
+Alfred University,92,490,590,30,22,27,70,39948,39948,New York,Mid East,Private,Remote Town,8,7,51,56,100,40
+Clarkson University,89,520,620,41,24,28,64,57514,57514,New York,Mid East,Private,Remote Town,2,4,28,69,99,29
+Hartwick College,50,500,620,15,23,27,84,50815,50815,New York,Mid East,Private,Remote Town,6,6,59,56,100,36
+Pennsylvania State University-Penn State Dubois,88,420,520,1,20,22,88,,,Pennsylvania,Mid East,Public,Remote Town,2,2,48,46,83,43
+St Bonaventure University,92,460,580,61,21,27,80,42359,42359,New York,Mid East,Private,Remote Town,5,6,51,62,99,29
+SUNY College of Technology at Alfred,69,470,570,24,21,26,55,23239,29899,New York,Mid East,Public,Remote Town,10,6,40,45,82,55
+SUNY Oneonta,91,500,580,40,22,25,51,21680,31130,New York,Mid East,Public,Remote Town,3,9,60,64,53,27
+University of Pittsburgh-Bradford,91,420,530,17,19,23,85,25642,36246,Pennsylvania,Mid East,Public,Remote Town,10,4,55,46,87,41
+Colby College,67,620,710,32,28,32,26,59110,59110,Maine,New England,Private,Remote Town,3,6,52,91,41,12
+College of St Joseph,61,335,500,15,16,18,68,33700,33700,Vermont,New England,Private,Remote Town,21,1,52,17,96,75
+Dartmouth College,69,670,780,31,30,34,10,63279,63279,New Hampshire,New England,Private,Remote Town,6,7,49,92,45,12
+Lyndon State College,83,410,520,11,18,21,99,21744,32400,Vermont,New England,Public,Remote Town,3,4,44,28,79,47
+Plymouth State University,93,430,530,10,18,23,77,26555,33975,New Hampshire,New England,Public,Remote Town,2,3,48,50,65,31
+Bethany College,29,390,510,77,18,23,59,35205,35205,Kansas,Plains,Private,Remote Town,12,11,40,35,98,45
+Central Christian College of Kansas,30,390,490,66,18,24,50,24500,24500,Kansas,Plains,Private,Remote Town,14,7,49,35,93,57
+Dakota Wesleyan University,10,400,580,93,19,27,70,33060,33060,South Dakota,Plains,Private,Remote Town,2,4,55,36,100,37
+Dickinson State University,14,425,533,77,18,23,49,16044,18396,North Dakota,Plains,Public,Remote Town,4,5,61,28,73,29
+Dordt College,21,450,610,88,21,28,75,38800,38800,Iowa,Plains,Private,Remote Town,2,2,46,59,100,34
+Emporia State University,1,438,528,84,19,25,61,17257,29031,Kansas,Plains,Public,Remote Town,5,6,60,32,87,41
+Grinnell College,49,620,730,51,28,32,35,56354,56354,Iowa,Plains,Private,Remote Town,6,8,54,84,87,22
+Hannibal-LaGrange University,3,420,620,79,19,25,68,29258,29258,Missouri,Plains,Private,Remote Town,3,1,58,55,93,46
+Iowa Wesleyan College,6,453,468,95,19,24,60,38738,38738,Iowa,Plains,Private,Remote Town,6,5,64,25,100,59
+Kansas Wesleyan University,22,420,510,76,20,24,54,36400,36400,Kansas,Plains,Private,Remote Town,7,13,54,38,99,33
+Luther College,11,433,610,91,23,29,72,48435,48435,Iowa,Plains,Private,Remote Town,2,3,57,73,100,18
+McPherson College,14,475,540,87,19,24,87,35477,35477,Kansas,Plains,Private,Remote Town,14,9,41,47,95,44
+Minot State University,10,428,500,85,19,24,57,16196,16196,North Dakota,Plains,Public,Remote Town,4,4,61,28,85,22
+Missouri University of Science and Technology,8,540,670,95,25,31,82,21798,36963,Missouri,Plains,Public,Remote Town,4,2,23,48,94,24
+Missouri Valley College,12,390,440,87,18,21,22,30000,30000,Missouri,Plains,Private,Remote Town,18,5,45,21,100,63
+Northwest Missouri State University,2,450,570,98,20,25,72,17376,22377,Missouri,Plains,Public,Remote Town,6,3,55,40,93,39
+Presentation College,20,380,470,85,18,22,66,28914,28914,South Dakota,Plains,Private,Remote Town,11,5,69,38,96,45
+South Dakota State University,5,440,590,94,20,25,92,19446,21528,South Dakota,Plains,Public,Remote Town,2,2,52,45,69,30
+Tabor College,27,400,510,83,18,27,74,36750,36750,Kansas,Plains,Private,Remote Town,8,11,48,51,100,43
+Truman State University,6,540,680,95,25,30,72,19568,25440,Missouri,Plains,Public,Remote Town,3,3,60,65,99,23
+University of Jamestown,18,430,570,82,21,24,57,28738,28738,North Dakota,Plains,Private,Remote Town,3,5,53,45,100,38
+University of Minnesota-Morris,10,530,690,95,23,28,58,23206,23206,Minnesota,Plains,Public,Remote Town,2,3,55,58,84,34
+University of Nebraska at Kearney,2,420,520,91,20,25,85,20010,25838,Nebraska,Plains,Public,Remote Town,2,8,57,39,75,35
+Valley City State University,6,420,460,89,18,23,83,16986,25066,North Dakota,Plains,Public,Remote Town,3,4,56,36,98,37
+William Penn University,17,380,500,86,17,22,58,33706,33706,Iowa,Plains,Private,Remote Town,14,7,50,27,99,55
+York College,13,370,510,87,17,22,49,26250,26250,Nebraska,Plains,Private,Remote Town,14,7,46,28,91,46
+Adams State University,16,440,533,90,17,22,53,19691,30323,Colorado,Rocky Mountains,Public,Remote Town,7,31,50,19,88,51
+Carroll College,64,490,620,71,22,26,53,40918,40918,Montana,Rocky Mountains,Private,Remote Town,1,4,58,63,99,21
+Fort Lewis College,23,470,570,87,20,25,88,22393,33233,Colorado,Rocky Mountains,Public,Remote Town,1,9,49,29,81,31
+Montana State University,38,500,630,71,21,27,84,19452,33417,Montana,Rocky Mountains,Public,Remote Town,1,3,45,37,79,25
+Montana State University-Northern,8,385,490,65,17,22,100,17380,29212,Montana,Rocky Mountains,Public,Remote Town,1,2,50,23,82,49
+Montana Tech of the University of Montana,30,500,620,80,21,27,89,18724,30866,Montana,Rocky Mountains,Public,Remote Town,1,1,33,37,78,30
+Southern Utah University,13,470,570,90,20,26,57,19082,31060,Utah,Rocky Mountains,Public,Remote Town,1,4,55,33,80,36
+University of Wyoming,16,480,610,89,22,27,96,18145,27865,Wyoming,Rocky Mountains,Public,Remote Town,1,6,53,42,86,20
+Western State Colorado University,23,430,560,86,19,24,93,20045,29986,Colorado,Rocky Mountains,Public,Remote Town,2,9,42,35,85,31
+Arkansas Tech University,1,370,490,84,18,25,85,16086,20862,Arkansas,Southeast,Public,Remote Town,7,6,54,33,93,57
+Averett University,83,420,520,35,17,22,63,39124,39124,Virginia,Southeast,Private,Remote Town,24,4,50,26,100,53
+Bluefield College,74,390,500,41,16,21,57,35560,35560,Virginia,Southeast,Private,Remote Town,22,3,55,42,100,50
+Bluefield State College,16,410,500,72,17,21,43,,,West Virginia,Southeast,Public,Remote Town,10,1,62,12,90,63
+Campbellsville University,7,420,505,93,18,24,68,33628,33628,Kentucky,Southeast,Private,Remote Town,10,1,58,37,94,57
+Concord University,28,430,530,78,18,24,46,17720,25050,West Virginia,Southeast,Public,Remote Town,6,1,57,29,94,50
+Davis & Elkins College,31,400,520,61,17,23,57,36442,36442,West Virginia,Southeast,Private,Remote Town,4,0,54,32,100,47
+Delta State University,5,410,475,95,18,22,89,18887,18887,Mississippi,Southeast,Public,Remote Town,35,1,60,26,94,53
+Georgia Southern University,75,520,590,52,21,25,52,22269,32335,Georgia,Southeast,Public,Remote Town,26,4,50,40,77,36
+Glenville State College,18,360,480,77,16,21,74,21300,29316,West Virginia,Southeast,Public,Remote Town,13,1,43,23,91,64
+Lincoln Memorial University,20,480,500,80,19,27,70,32620,32620,Tennessee,Southeast,Private,Remote Town,4,2,71,35,85,43
+Longwood University,95,460,550,24,19,23,81,23724,36594,Virginia,Southeast,Public,Remote Town,8,5,66,56,47,23
+Lyon College,9,470,600,95,22,28,59,34154,34154,Arkansas,Southeast,Private,Remote Town,4,5,54,46,100,42
+Mississippi State University,16,480,620,84,20,28,65,21670,31858,Mississippi,Southeast,Public,Remote Town,21,2,48,49,89,32
+Mississippi University for Women,8,440,480,92,18,24,43,16823,26543,Mississippi,Southeast,Public,Remote Town,38,1,82,32,98,58
+Morehead State University,5,420,545,98,19,25,84,18851,30099,Kentucky,Southeast,Public,Remote Town,3,1,61,35,97,52
+Murray State University,2,430,520,93,19,25,82,18898,31018,Kentucky,Southeast,Public,Remote Town,7,2,58,43,97,38
+Northwestern State University of Louisiana,6,430,518,89,19,24,84,18436,28556,Louisiana,Southeast,Public,Remote Town,27,5,68,30,91,48
+Southern Arkansas University Main Campus,6,410,520,94,18,24,61,19438,22588,Arkansas,Southeast,Public,Remote Town,27,2,58,23,95,58
+Tennessee Technological University,4,450,600,92,20,26,93,22963,37963,Tennessee,Southeast,Public,Remote Town,4,2,44,39,90,36
+Union College,10,460,563,88,19,24,74,33740,33740,Kentucky,Southeast,Private,Remote Town,10,2,49,27,100,59
+University of Mississippi,30,490,590,86,21,27,59,22444,33412,Mississippi,Southeast,Public,Remote Town,15,3,55,49,73,26
+University of Pikeville,5,390,500,95,16,22,100,33750,33750,Kentucky,Southeast,Private,Remote Town,10,1,53,24,100,65
+University of the Cumberlands,15,420,520,89,19,25,71,33500,33500,Kentucky,Southeast,Private,Remote Town,6,2,50,36,100,58
+University of the Ozarks,16,420,550,85,20,26,61,36379,36379,Arkansas,Southeast,Private,Remote Town,5,9,52,43,92,43
+West Virginia Wesleyan College,41,432,510,74,20,25,77,40534,40534,West Virginia,Southeast,Private,Remote Town,9,2,53,54,100,40
+East Central University,6,370,530,94,18,23,98,13063,20465,Oklahoma,Southwest,Public,Remote Town,4,5,60,27,77,50
+Eastern New Mexico University-Main Campus,13,410,540,93,17,22,63,16149,21660,New Mexico,Southwest,Public,Remote Town,4,34,56,22,95,55
+Howard Payne University,73,420,520,57,18,22,54,33853,33853,Texas,Southwest,Private,Remote Town,9,19,47,38,99,45
+New Mexico Institute of Mining and Technology,38,550,670,89,23,29,41,18762,30121,New Mexico,Southwest,Public,Remote Town,2,26,30,34,94,32
+Schreiner University,81,430,540,54,19,24,93,35509,35509,Texas,Southwest,Private,Remote Town,3,29,57,39,100,44
+Sul Ross State University,47,360,490,58,15,21,52,18556,27052,Texas,Southwest,Public,Remote Town,7,62,56,21,76,63
+Tarleton State University,79,430,530,63,19,23,57,17964,26460,Texas,Southwest,Public,Remote Town,10,16,60,34,68,41
+Wayland Baptist University,43,400,510,64,17,23,99,23410,23410,Texas,Southwest,Private,Remote Town,16,26,50,28,94,53
+California State University-Chico,90,450,550,36,19,24,72,22362,33522,California,Far West,Public,Small City,2,23,52,40,46,36
+California State University-Dominguez Hills,80,380,470,21,15,19,57,21286,32446,California,Far West,Public,Small City,17,53,64,16,78,74
+Dominican University of California,87,480,570,38,20,25,78,58860,58860,California,Far West,Private,Small City,4,22,74,47,98,31
+Oregon State University,76,480,600,34,21,27,79,23559,38751,Oregon,Far West,Public,Small City,1,7,46,49,70,31
+Simpson University,85,460,570,33,21,23,55,35324,35324,California,Far West,Private,Small City,3,14,66,43,99,48
+University of California-Santa Cruz,92,470,610,43,20,26,60,33153,56031,California,Far West,Public,Small City,2,30,53,64,72,51
+University of Redlands,71,510,610,37,23,27,67,58559,58559,California,Far West,Private,Small City,5,25,55,69,93,26
+Western Washington University,90,490,620,26,22,28,84,22671,33560,Washington,Far West,Public,Small City,2,7,55,57,49,23
+Whitman College,67,610,730,32,28,32,57,56600,56600,Washington,Far West,Private,Small City,1,8,57,85,83,9
+Anderson University,76,470,570,62,21,25,55,39390,39390,Indiana,Great Lakes,Private,Small City,9,2,60,53,100,33
+Ball State University,58,490,590,41,20,24,61,22250,37214,Indiana,Great Lakes,Public,Small City,7,3,58,50,64,35
+Beloit College,39,550,710,72,24,30,68,50406,50406,Wisconsin,Great Lakes,Private,Small City,4,8,59,75,95,18
+Bethel College-Indiana,70,440,550,59,20,27,72,35430,35430,Indiana,Great Lakes,Private,Small City,12,6,66,58,100,54
+Franciscan University of Steubenville,51,540,650,53,23,28,76,34490,34490,Ohio,Great Lakes,Private,Small City,0,10,62,67,94,25
+Goshen College,68,470,620,38,21,30,55,40760,40760,Indiana,Great Lakes,Private,Small City,4,11,57,64,100,32
+Hope College,14,520,660,90,24,29,73,40050,40050,Michigan,Great Lakes,Private,Small City,2,7,60,74,92,21
+Illinois Wesleyan University,15,510,620,89,25,30,58,50352,50352,Illinois,Great Lakes,Private,Small City,5,6,56,76,98,22
+Indiana State University,74,400,510,41,16,22,83,20619,30355,Indiana,Great Lakes,Public,Small City,18,3,54,34,82,53
+Indiana University-Bloomington,72,520,630,64,24,30,72,23820,45961,Indiana,Great Lakes,Public,Small City,4,4,51,70,53,19
+Indiana University-Kokomo,85,430,520,20,18,23,74,,,Indiana,Great Lakes,Public,Small City,4,4,64,18,58,43
+Indiana University-Northwest,68,390,510,39,17,23,76,,,Indiana,Great Lakes,Public,Small City,17,16,66,17,58,44
+Kalamazoo College,28,550,670,81,25,30,67,50800,50800,Michigan,Great Lakes,Private,Small City,4,8,56,75,98,22
+Lawrence Technological University,11,480,630,81,22,28,44,43061,43061,Michigan,Great Lakes,Private,Small City,6,2,24,35,86,31
+Madonna University,4,480,630,92,19,25,61,27944,27944,Michigan,Great Lakes,Private,Small City,12,4,67,36,86,34
+Malone University,21,460,558,92,19,26,72,37934,37934,Ohio,Great Lakes,Private,Small City,7,3,57,54,100,44
+Michigan State University,15,420,580,82,23,28,69,24648,45536,Michigan,Great Lakes,Public,Small City,7,4,50,67,43,21
+Millikin University,6,490,570,96,21,26,55,40694,40694,Illinois,Great Lakes,Private,Small City,12,6,59,56,100,39
+Northwestern University,64,690,760,60,31,34,15,63193,63193,Illinois,Great Lakes,Private,Small City,6,10,51,91,54,14
+Southern Illinois University-Carbondale,6,450,590,94,19,25,79,25409,38032,Illinois,Great Lakes,Public,Small City,20,7,45,35,70,52
+University of Illinois at Urbana-Champaign,28,560,670,79,26,31,62,29086,43468,Illinois,Great Lakes,Public,Small City,5,8,44,78,46,21
+Wittenberg University,23,520,620,55,23,25,89,50766,50766,Ohio,Great Lakes,Private,Small City,7,3,57,61,98,29
+Albright College,64,460,560,11,20,25,62,49160,49160,Pennsylvania,Mid East,Private,Small City,16,9,58,52,99,50
+Alvernia University,97,440,530,17,18,22,78,43250,43250,Pennsylvania,Mid East,Private,Small City,13,7,72,45,100,36
+Bloomsburg University of Pennsylvania,97,440,530,12,19,23,89,22182,32306,Pennsylvania,Mid East,Public,Small City,8,5,56,55,44,32
+Cornell University,82,640,740,39,30,34,16,61618,61618,New York,Mid East,Private,Small City,6,11,51,91,54,15
+Delaware State University,95,410,480,12,16,19,42,21581,29937,Delaware,Mid East,Public,Small City,72,5,62,29,90,58
+Dickinson College,55,590,675,27,27,31,44,60183,60183,Pennsylvania,Mid East,Private,Small City,4,6,56,85,68,11
+East Stroudsburg University of Pennsylvania,97,430,480,15,18,22,78,20866,30990,Pennsylvania,Mid East,Public,Small City,9,10,55,49,44,30
+Elmira College,92,470,570,37,20,27,80,50800,50800,New York,Mid East,Private,Small City,3,3,72,62,99,33
+Gettysburg College,78,600,690,9,27,29,42,58320,58320,Pennsylvania,Mid East,Private,Small City,3,4,52,83,69,14
+Hood College,93,450,580,25,18,25,81,48830,48830,Maryland,Mid East,Private,Small City,12,8,66,62,98,27
+Lehigh University,72,580,670,28,28,32,31,57145,57145,Pennsylvania,Mid East,Private,Small City,3,8,44,81,53,17
+Lycoming College,92,460,570,14,21,26,72,46707,46707,Pennsylvania,Mid East,Private,Small City,5,3,56,59,100,34
+Pennsylvania State University-Main Campus,78,530,630,14,25,29,54,33592,46166,Pennsylvania,Mid East,Public,Small City,4,5,46,78,38,14
+Pennsylvania State University-Penn State Altoona,90,440,530,6,19,23,85,30840,37902,Pennsylvania,Mid East,Public,Small City,9,4,47,62,53,32
+Rensselaer Polytechnic Institute,74,620,720,26,27,31,41,61820,61820,New York,Mid East,Private,Small City,2,7,30,78,95,15
+SUNY at Albany,91,490,580,26,22,26,55,22419,32739,New York,Mid East,Public,Small City,14,13,48,62,59,36
+Towson University,92,490,580,21,21,25,60,23166,34844,Maryland,Mid East,Public,Small City,15,5,60,55,47,22
+Union College,45,590,680,22,28,31,37,60150,60150,New York,Mid East,Private,Small City,4,7,46,86,77,14
+University of Scranton,82,510,600,32,22,27,75,55008,55008,Pennsylvania,Mid East,Private,Small City,2,7,55,79,92,21
+Utica College,87,410,520,23,18,23,85,48650,48650,New York,Mid East,Private,Small City,10,8,61,40,98,47
+Wesley College,89,360,470,9,16,23,62,38230,38230,Delaware,Mid East,Private,Small City,39,5,52,18,96,50
+Wilson College,80,440,570,12,19,24,53,41963,41963,Pennsylvania,Mid East,Private,Small City,3,2,88,51,92,45
+Bentley University,89,540,630,27,26,30,44,56930,56930,Massachusetts,New England,Private,Small City,3,7,40,85,69,17
+Boston College,75,620,710,44,30,33,32,60706,60706,Massachusetts,New England,Private,Small City,4,10,53,90,45,15
+Brandeis University,75,600,710,28,28,32,37,61070,61070,Massachusetts,New England,Private,Small City,5,7,57,88,57,18
+Champlain College,85,500,620,25,22,28,71,46850,46850,Vermont,New England,Private,Small City,3,4,40,54,92,25
+Framingham State University,98,470,560,2,19,25,52,22804,28884,Massachusetts,New England,Public,Small City,8,9,63,44,84,30
+Husson University,99,420,530,5,17,21,80,26286,26286,Maine,New England,Private,Small City,4,1,59,37,78,29
+Lasell College,92,440,540,14,18,23,76,46000,46000,Massachusetts,New England,Private,Small City,7,9,64,51,98,30
+Mount Ida College,89,400,490,11,15,20,61,44945,44945,Massachusetts,New England,Private,Small City,12,11,66,35,97,48
+Rivier University,97,430,500,12,17,21,89,43227,43227,New Hampshire,New England,Private,Small City,3,5,82,52,99,33
+University of Saint Joseph,95,430,520,17,18,22,86,49923,49923,Connecticut,New England,Private,Small City,12,12,98,46,99,38
+University of Southern Maine,93,450,550,7,20,25,83,24062,36422,Maine,New England,Public,Small City,3,2,57,23,78,45
+University of Vermont,87,540,640,30,24,29,78,28886,49814,Vermont,New England,Public,Small City,1,4,56,72,91,20
+Wesleyan University,80,640,740,41,29,33,21,62849,62849,Connecticut,New England,Private,Small City,7,10,52,90,45,18
+Clarke University,6,470,530,96,20,25,78,40800,40800,Iowa,Plains,Private,Small City,3,3,66,66,99,34
+Iowa State University,8,460,620,93,22,28,83,18920,31472,Iowa,Plains,Public,Small City,3,4,43,56,76,21
+Lindenwood University,13,430,550,76,20,25,66,31140,31140,Missouri,Plains,Private,Small City,14,3,54,36,93,30
+Loras College,2,435,575,98,21,26,69,39077,39077,Iowa,Plains,Private,Small City,2,6,48,56,100,25
+Saint Cloud State University,3,435,548,92,19,24,87,19002,26644,Minnesota,Plains,Public,Small City,5,3,52,36,60,39
+Southeast Missouri State University,2,435,555,90,20,25,85,19211,24543,Missouri,Plains,Public,Small City,9,1,57,40,87,40
+The College of Saint Scholastica,3,420,530,91,21,26,73,43008,43008,Minnesota,Plains,Private,Small City,3,2,69,65,99,27
+University of Dubuque,15,410,490,87,17,22,77,35530,35530,Iowa,Plains,Private,Small City,12,7,43,40,93,52
+University of Iowa,10,540,620,86,25,28,80,20691,39561,Iowa,Plains,Public,Small City,3,6,52,62,71,20
+University of Minnesota-Duluth,3,460,590,98,22,26,78,23355,27020,Minnesota,Plains,Public,Small City,2,2,46,48,63,25
+University of North Dakota,7,470,590,94,21,26,74,21162,31448,North Dakota,Plains,Public,Small City,2,3,43,41,65,21
+Colorado Mesa University,12,430,540,87,18,23,82,19729,29752,Colorado,Rocky Mountains,Public,Small City,2,14,55,25,71,43
+Lewis-Clark State College,63,400,510,45,18,22,100,17426,27736,Idaho,Rocky Mountains,Public,Small City,1,5,61,18,88,54
+The University of Montana,47,490,620,68,21,26,94,19106,34780,Montana,Rocky Mountains,Public,Small City,1,4,54,38,80,40
+University of Colorado Boulder,45,520,630,75,24,29,88,28887,50655,Colorado,Rocky Mountains,Public,Small City,2,10,45,60,40,17
+University of Northern Colorado,13,450,570,91,20,24,70,20264,31803,Colorado,Rocky Mountains,Public,Small City,4,16,63,39,80,36
+Utah State University,8,480,610,88,20,27,97,17720,29240,Utah,Rocky Mountains,Public,Small City,1,5,54,38,70,31
+Albany State University,70,420,480,56,17,20,20,19590,31792,Georgia,Southeast,Public,Small City,90,1,66,31,91,81
+Anderson University,82,480,600,68,21,26,65,37014,37014,South Carolina,Southeast,Private,Small City,9,3,67,39,100,29
+Arkansas State University-Main Campus,1,410,515,95,21,26,76,20014,25624,Arkansas,Southeast,Public,Small City,14,2,58,29,93,48
+Auburn University,17,520,620,83,24,30,83,25282,41794,Alabama,Southeast,Public,Small City,7,3,49,56,68,13
+Bethune-Cookman University,49,370,460,64,15,18,67,27058,27058,Florida,Southeast,Private,Small City,89,3,59,38,96,80
+Brenau University,84,440,550,44,19,21,78,38528,38528,Georgia,Southeast,Private,Small City,31,6,89,38,97,57
+Central Baptist College,3,430,590,85,18,23,54,23224,23224,Arkansas,Southeast,Private,Small City,21,2,49,32,97,43
+Charleston Southern University,78,430,540,59,18,23,69,35740,35740,South Carolina,Southeast,Private,Small City,30,3,64,31,100,45
+Coastal Carolina University,62,450,530,38,19,23,74,22656,35666,South Carolina,Southeast,Public,Small City,20,4,54,38,73,39
+Converse College,84,480,590,60,21,26,52,42094,42094,South Carolina,Southeast,Private,Small City,6,4,100,59,98,44
+East Carolina University,85,480,550,15,21,24,62,20831,34944,North Carolina,Southeast,Public,Small City,16,5,59,46,49,32
+East Tennessee State University,11,440,550,88,19,25,86,23607,38919,Tennessee,Southeast,Public,Small City,6,2,57,31,88,46
+Eastern Mennonite University,87,433,568,30,18,25,65,41500,41500,Virginia,Southeast,Private,Small City,6,7,65,58,99,34
+Embry-Riddle Aeronautical University-Daytona Beach,76,470,590,49,21,27,74,46614,46614,Florida,Southeast,Private,Small City,6,7,17,48,90,30
+Florida Atlantic University,62,480,560,38,20,24,48,21583,34027,Florida,Southeast,Public,Small City,18,25,56,30,81,39
+Florida Institute of Technology,53,500,610,38,23,28,60,52690,52690,Florida,Southeast,Private,Small City,5,6,27,48,95,21
+Florida Southern College,82,490,590,60,22,27,50,40700,40700,Florida,Southeast,Private,Small City,6,9,61,54,99,33
+Hendrix College,45,530,680,82,26,32,80,52536,52536,Arkansas,Southeast,Private,Small City,4,5,55,67,100,20
+Jacksonville State University,18,430,540,89,19,26,83,21237,28029,Alabama,Southeast,Public,Small City,25,1,58,22,83,48
+James Madison University,94,520,620,32,23,27,64,22740,37218,Virginia,Southeast,Public,Small City,4,5,59,75,25,12
+Kentucky Wesleyan College,20,440,540,88,19,25,67,32190,32190,Kentucky,Southeast,Private,Small City,12,2,48,33,100,48
+King University,38,450,560,68,20,25,64,37758,37758,Tennessee,Southeast,Private,Small City,5,2,65,49,91,48
+Lane College,1,360,510,90,13,16,49,18900,18900,Tennessee,Southeast,Private,Small City,100,0,48,26,99,94
+Lee University,33,490,600,87,21,27,92,26100,26100,Tennessee,Southeast,Private,Small City,5,4,57,46,89,37
+Lenoir-Rhyne University,63,430,530,42,18,23,68,43360,43360,North Carolina,Southeast,Private,Small City,13,5,58,46,99,45
+Liberty University,55,460,570,28,19,26,22,33544,33544,Virginia,Southeast,Private,Small City,15,2,59,40,94,40
+Lynchburg College,92,450,550,29,19,24,64,44695,44695,Virginia,Southeast,Private,Small City,11,4,60,52,99,33
+Lynn University,70,410,520,32,18,22,78,49535,49535,Florida,Southeast,Private,Small City,10,12,47,38,79,19
+Marshall University,18,450,550,92,20,24,79,18916,27146,West Virginia,Southeast,Public,Small City,6,2,56,36,85,47
+Mary Baldwin College,74,430,550,21,18,25,88,40420,40420,Virginia,Southeast,Private,Small City,24,6,94,39,100,57
+McNeese State University,5,450,550,95,20,24,62,17759,28661,Louisiana,Southeast,Public,Small City,18,2,62,27,89,39
+Mercer University,61,540,630,38,23,28,69,48212,48212,Georgia,Southeast,Private,Small City,33,4,63,54,99,33
+New College of Florida,85,620,720,54,27,30,61,20067,43095,Florida,Southeast,Public,Small City,3,14,57,62,100,25
+Nicholls State University,2,437,537,96,20,24,87,19180,28671,Louisiana,Southeast,Public,Small City,20,3,62,32,90,44
+North Carolina Wesleyan College,71,370,470,29,15,20,47,37812,37812,North Carolina,Southeast,Private,Small City,49,2,59,29,76,55
+Ohio Valley University,33,410,520,78,19,23,36,28850,28850,West Virginia,Southeast,Private,Small City,7,3,46,34,99,46
+Radford University,85,450,540,28,18,22,78,20700,32865,Virginia,Southeast,Public,Small City,10,5,56,52,43,26
+Randolph College,89,490,610,26,21,28,83,46060,46060,Virginia,Southeast,Private,Small City,9,6,64,50,100,33
+Shenandoah University,90,440,550,31,19,26,85,43598,43598,Virginia,Southeast,Private,Small City,13,6,61,40,99,27
+Shorter University,67,410,530,61,18,23,68,33230,33230,Georgia,Southeast,Private,Small City,17,4,57,42,98,45
+Southeastern University,59,430,550,49,17,23,59,32234,32234,Florida,Southeast,Private,Small City,13,16,55,32,96,46
+Southern Polytechnic State University,80,500,600,46,22,26,78,18862,29890,Georgia,Southeast,Public,Small City,21,8,19,26,83,39
+Stillman College,6,350,450,59,17,20,43,26877,26877,Alabama,Southeast,Private,Small City,92,1,49,22,100,74
+The University of Alabama,23,490,620,76,22,30,57,27000,41500,Alabama,Southeast,Public,Small City,11,3,54,57,60,18
+The University of West Florida,59,460,570,78,21,26,48,19737,32618,Florida,Southeast,Public,Small City,13,9,57,33,83,45
+Union University,16,580,680,91,22,29,74,44220,44220,Tennessee,Southeast,Private,Small City,16,2,61,59,100,33
+University of Arkansas,27,500,600,91,23,28,59,22212,33468,Arkansas,Southeast,Public,Small City,5,6,51,51,66,22
+University of Arkansas at Pine Bluff,6,330,430,94,15,20,28,16882,22582,Arkansas,Southeast,Public,Small City,93,1,54,17,92,82
+University of Arkansas-Fort Smith,2,350,540,82,19,25,57,16498,22042,Arkansas,Southeast,Public,Small City,4,8,56,18,93,60
+University of Charleston,29,410,515,78,19,24,69,32850,32850,West Virginia,Southeast,Private,Small City,12,2,58,41,100,43
+University of North Alabama,3,413,565,96,19,25,81,16933,22525,Alabama,Southeast,Public,Small City,13,2,57,24,68,53
+University of North Carolina at Asheville,84,550,650,16,24,27,64,18765,32587,North Carolina,Southeast,Public,Small City,3,4,57,51,65,26
+University of North Carolina at Chapel Hill,78,590,700,24,28,32,28,24024,45806,North Carolina,Southeast,Public,Small City,9,7,58,86,48,20
+University of Southern Mississippi,4,440,550,96,20,27,66,19894,28174,Mississippi,Southeast,Public,Small City,32,3,64,35,94,50
+University of Virginia-Main Campus,89,620,720,37,29,33,30,26075,53461,Virginia,Southeast,Public,Small City,6,5,56,90,28,11
+Valdosta State University,68,480,570,30,20,24,55,20746,31671,Georgia,Southeast,Public,Small City,36,4,59,30,80,47
+Virginia Intermont College,64,410,545,64,18,22,96,39891,39891,Virginia,Southeast,Private,Small City,10,3,66,41,89,46
+Wesleyan College,81,450,570,35,17,22,43,32375,32375,Georgia,Southeast,Private,Small City,29,4,96,62,100,49
+West Virginia University,60,460,560,58,21,26,85,18375,31551,West Virginia,Southeast,Public,Small City,4,3,46,48,72,26
+Western Kentucky University,7,410,580,93,18,25,92,18822,32348,Kentucky,Southeast,Public,Small City,10,2,57,40,88,44
+Wheeling Jesuit University,49,460,563,74,20,24,69,36070,36070,West Virginia,Southeast,Private,Small City,5,2,55,48,100,26
+Winthrop University,60,460,570,40,19,25,72,25450,38020,South Carolina,Southeast,Public,Small City,30,3,67,48,97,45
+Wofford College,81,540,620,68,24,29,69,49449,49449,South Carolina,Southeast,Private,Small City,8,2,48,81,91,17
+Angelo State University,58,420,520,68,18,23,80,18915,27411,Texas,Southwest,Public,Small City,8,30,54,23,85,47
+Austin College,55,540,660,52,23,27,59,47625,47625,Texas,Southwest,Private,Small City,6,16,51,70,99,30
+LeTourneau University,72,500,640,66,22,30,41,38775,38775,Texas,Southwest,Private,Small City,9,9,47,45,99,33
+Northern Arizona University,64,470,580,50,20,25,91,22746,35101,Arizona,Southwest,Public,Small City,3,19,58,41,66,37
+Prescott College,79,480,640,21,22,30,73,41336,41336,Arizona,Southwest,Private,Small City,1,6,55,32,92,52
+Texas A & M University-College Station,86,520,630,55,23,29,69,21051,37671,Texas,Southwest,Public,Small City,3,20,48,68,65,26
+The University of Texas at Tyler,64,470,560,60,21,25,82,21222,31842,Texas,Southwest,Public,Small City,9,15,57,37,67,33
+The University of Texas-Pan American,47,410,510,84,18,21,62,16245,24741,Texas,Southwest,Public,Small City,1,90,55,29,85,70
+University of Houston-Victoria,64,390,490,31,16,21,51,18118,28738,Texas,Southwest,Public,Small City,17,31,66,#DIV/0!,92,67
+California Polytechnic State University-San Luis Obispo,88,550,650,62,25,30,31,24285,35445,California,Far West,Public,Small Suburb,1,15,45,53,41,14
+California State University-Stanislaus,86,400,510,35,16,22,72,22433,33593,California,Far West,Public,Small Suburb,3,45,64,37,73,60
+University of California-Davis,93,510,640,45,23,29,45,33066,55944,California,Far West,Public,Small Suburb,2,17,56,70,68,37
+Walla Walla University,62,460,600,55,20,27,93,35670,35670,Washington,Far West,Private,Small Suburb,2,12,50,32,100,30
+Denison University,22,590,660,38,27,31,46,56520,56520,Ohio,Great Lakes,Private,Small Suburb,6,9,58,80,99,19
+Northern Illinois University,3,450,550,96,19,24,56,28342,37438,Illinois,Great Lakes,Public,Small Suburb,17,13,50,41,92,50
+Spring Arbor University,6,480,575,94,20,26,65,34046,34046,Michigan,Great Lakes,Private,Small Suburb,12,3,69,47,100,49
+California University of Pennsylvania,97,440,530,20,17,21,93,24860,28712,Pennsylvania,Mid East,Public,Small Suburb,9,3,52,45,61,38
+Frostburg State University,92,430,530,17,18,22,59,20046,30694,Maryland,Mid East,Public,Small Suburb,27,4,49,37,61,36
+Lebanon Valley College,85,490,600,17,22,27,67,48630,48630,Pennsylvania,Mid East,Private,Small Suburb,2,5,53,71,99,25
+McDaniel College,83,500,600,23,21,27,76,48300,48300,Maryland,Mid East,Private,Small Suburb,12,6,53,69,99,32
+Pennsylvania State University-Penn State Hazleton,93,410,520,4,20,24,86,30150,36826,Pennsylvania,Mid East,Public,Small Suburb,16,15,48,44,77,46
+Salisbury University,58,540,610,17,22,26,55,22368,30714,Maryland,Mid East,Public,Small Suburb,12,4,57,59,75,16
+Skidmore College,78,560,680,31,26,30,35,60900,60900,New York,Mid East,Private,Small Suburb,4,9,61,85,46,13
+St Mary's College of Maryland,92,570,670,21,25,30,72,29599,43399,Maryland,Mid East,Public,Small Suburb,8,6,59,76,61,12
+University of Pittsburgh-Johnstown,97,450,550,14,20,24,90,26262,36866,Pennsylvania,Mid East,Public,Small Suburb,3,1,45,46,75,30
+University of Maine,94,480,590,10,21,26,81,23712,41082,Maine,New England,Public,Small Suburb,2,2,48,48,82,42
+Berry College,47,530,640,53,24,29,60,43834,43834,Georgia,Southeast,Private,Small Suburb,4,6,62,56,100,31
+Bridgewater College,85,460,560,16,20,25,55,43310,43310,Virginia,Southeast,Private,Small Suburb,9,3,55,57,100,30
+Carson-Newman University,17,445,575,83,20,26,67,34100,34100,Tennessee,Southeast,Private,Small Suburb,9,1,55,45,100,51
+College of William and Mary,89,640,740,36,28,32,33,28329,51306,Virginia,Southeast,Public,Small Suburb,7,9,55,87,33,11
+Flagler College-St Augustine,72,540,580,51,21,25,50,29560,29560,Florida,Southeast,Private,Small Suburb,4,8,59,57,81,31
+Francis Marion University,49,410,530,47,17,22,57,20923,29901,South Carolina,Southeast,Public,Small Suburb,49,1,69,30,95,65
+Louisiana College,3,410,460,93,18,23,74,23390,23390,Louisiana,Southeast,Private,Small Suburb,22,2,48,37,96,41
+Texas State University,72,460,560,28,21,25,75,19620,28824,Texas,Southwest,Public,Small Suburb,7,31,56,46,60,36
+University of Mary Hardin-Baylor,54,460,560,43,21,27,85,36180,36180,Texas,Southwest,Private,Small Suburb,14,17,62,39,96,42
